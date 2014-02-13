@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html dir="ltr" class="client-js" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Wow! signal - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8">
+<meta name="generator" content="MediaWiki 1.22wmf1">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit">
+<link rel="edit" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit">
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://bits.wikimedia.org/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org/w/api.php?action=rsd">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="Wow%21signal_files/load_002.css">
+<style>
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:0.8em;line-height:1.5625em;color:#626465;background:#eee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAA0BAMAAABSu/SnAAAAHlBMVEXs7Oz19fX09PTy8vLu7u7t7e3w8PDz8/Pv7+/x8fEtYyu9AAAAIklEQVQIW2MQZECGSkiwHAqN4XAmFKZBYQcUusBhKByiAQCuTQ040z4WnQAAAABJRU5ErkJggg==) repeat-x;background:#eee url(//bits.wikimedia.org/static-1.22wmf1/extensions/PostEdit/resources/images/gray-bg.png?2013-04-01T17:21:40Z) repeat-x!ie;border:1px solid #dcd9d9;-webkit-text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);-moz-text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 2px 5px 0 #ccc;-moz-box-shadow:0 2px 5px 0 #ccc;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aRdTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj///////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9UhjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUTs9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuUdxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8wVh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXaChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pSEwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfOFCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkSuQmCC);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/PostEdit/resources/images/green-checkmark.png?2013-04-01T17:21:40Z)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:black;text-shadow:0 0.0625em 0 white;text-decoration:none;opacity:0.2;filter:alpha(opacity=20)}.postedit-close:hover{color:black;text-decoration:none;cursor:pointer;opacity:0.4;filter:alpha(opacity=40)}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:65618f852328627fb46ce8b5af85d92b */
+.wbc-editpage{list-style:none none;text-align:right;padding-right:.5em !important}.wbc-editpage > a{padding-left:11px;background:no-repeat left center}.wbc-editpage > a:link,.wbc-editpage > a:visited{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKBAMAAAB/HNKOAAAAD1BMVEUZAAD///95eXmqqqrY2NjEIQ0cAAAAAXRSTlMAQObYZgAAACdJREFUCNdjYGBgYGIAASUFENNJCUiqmADZTM5OqExFFZAKRSG4YgBjcwODynSgDwAAAABJRU5ErkJggg==);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Wikibase/client/resources/images/WBC-Asset-Pencil.png?2013-04-01T17:25:00Z)!ie;color:#797979 !important}.wbc-editpage > a:hover{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKBAMAAAB/HNKOAAAAD1BMVEWBAADY2Nj///8GRa0zZrtW2AECAAAAAXRSTlMAQObYZgAAACdJREFUCNdjYGBgYGYAAWMDEFPYGEgaOgLZzCLCqEwjQ5AKI2W4YgBg5QOTQPzBuAAAAABJRU5ErkJggg==);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Wikibase/client/resources/images/WBC-Asset-Pencil-Hover.png?2013-04-01T17:25:00Z)!ie;color:#0645AD !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:4f0fa72f770793bbf98d2b2cdffaf703 */</style><style>
+#wpTextbox1{margin:0;display:block}.editOptions{background-color:#F0F0F0;border:1px solid silver;border-top:none;padding:1em 1em 1.5em 1em;margin-bottom:2em} .collapsible-list{display:inline;cursor:pointer;min-width:400px}.collapsible-list span{float:left;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX////d3d2ampqxsbF5eXmCtCYvAAAAAXRSTlMAQObYZgAAADBJREFUeF6dzNEJACAMA1HdINQJCp1Ebv+ZlLYLaD4f4cbnDNi6MAO8KCHJ+7X02j3mzgMQe93HcQAAAABJRU5ErkJggg==);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Vector/modules/./images/open.png?2013-04-01T17:23:20Z)!ie;background-repeat:no-repeat;background-position:50% 50%;display:block;height:16px;width:16px}.collapsible-list span.collapsed{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEX///95eXnd3d2dnZ3aAo3QAAAAAXRSTlMAQObYZgAAADFJREFUeF5dyzEKACAMA0CXolNe2Id09Kl5igZahWY4AiGjZwmIuS9GEcJfY63Ix88Bol4EYP1O7JMAAAAASUVORK5CYII=);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Vector/modules/./images/closed-ltr.png?2013-04-01T17:23:20Z)!ie}.hiddencats ul,.templatesUsed ul{margin-bottom:1em;margin-left:2.5em} .editCheckboxes{margin-bottom:1em}.editCheckboxes input:first-child{margin-left:0}.cancelLink{margin-left:0.5em}#editpage-copywarn{font-size:0.9em}#wpSummary{display:block;margin-top:0;margin-bottom:0.5em}.editButtons input:first-child{margin-left:.1em}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:b0da7e3cdc1d812477c36b87833ecf1d */</style><style>
+.mw-mah-wrapper a{cursor:pointer}.mw-mah-wrapper .mah-helpful-state{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEX///+AgICzs7OioqLS0tK9vb3e3t6ioqLe3t6lpaXe3t6ioqLS0tLX19fb29vS0tK4uLjb29u4uLjb29vb29vX19fNzc2urq7Dw8Ourq6urq6pqampqamlpaXNzc3JycmlpaXJycnDw8Ourq7JycnNzc3S0tKzs7O4uLje3t6NjY10dHSioqKurq52dnZ4eHi+vr7MzMyKioqVlZVra2t6enqlpaXb29t9fX3X19eHh4e7u7u9vb3Dw8NwcHCpqamjqutxAAAAJHRSTlMAAISB8/mHydjeGAwVVPYb0l3P81Raihjz8BJUTkiE2z/P+fOmaXKeAAAAlklEQVR4XmXP1Q6DQBCG0S4udXddQ+tu7/9W/QuEkPBdzE7O1WylHCHEMSzPswwHawKt+jWp002hd8+r/aGhcf7kaMe5VgX0GWMnhj57xuaABaX0SLOxAqzfhYYA/VVIBzSlPPsS+Tcp2wBFCBE/hDjEWBTAYBNF0TYIYjyjMYBMvnnT9PSZfUmylyQF4qpmGJqqSwClfm4rG35BO7jwAAAAAElFTkSuQmCC) no-repeat left center;background:transparent url(//bits.wikimedia.org/static-1.22wmf1/extensions/MarkAsHelpful/modules/ext.markAsHelpful/images/mah-helpful-dull.png?2013-04-01T17:20:00Z) no-repeat left center!ie;padding-left:18px}.mw-mah-wrapper .mah-helpful-state:hover{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABpFBMVEX///+AgIBknYBYmXlknYBhnH5dmntYmXlhnH5Ul3VknYBhnH5hnH5dmntKlG5YmXlKlG5FkmpUl3VknYBknYBFkmpAkGdPlXJAkGc7jmRYmXk7jmQ3jWE3jWFknYA3jWE3jWEzi14zi14zi14wilwwilxPlXIwilwwilwuiVsuiVsuiVsuiVsuiVsuiVsuiVtkvpFmpYUzlGNqsY0xjV9SuoZhwpENIhhmwZNgrYUmVj1asoViooFprotop4diqoZDmG04mGdRuIQ6oGwKEQ1VqX4iUjlPp3pTkHJcpoBruZIPJho/onBdoX9euotgv45joIFdmntXuIZZvYpbwIxknYBovJFTsYFKs31doH4LEw9KnHJEpHNBnG08kWZZqIBqtpBduYo6lGY9nGw/o3EQKh1esogSKR1mqYZBnG5Wm3hIo3UPJRo9kmZqv5M8nGw5k2ZWmndpto9Rt4Qzi142k2NZqYE6nmsvWUQ5nWo1kmMVMCJIonRDl21KnXIuV0IzkmFQnnYykWFdsYdTnnhEpXMOIhggTDVPnnZmqodTnXhpvpMpx75iAAAAL3RSTlMAABLthPZOEmB41fNUXfkb6vmHGNvq29vMivN4G/OH7RJd/E5a88nwThiEzMaBEgXD7vYAAADdSURBVHheZc7DlgNRFIXhvqHRts1CbNu22bZtvXROUsP8o72+0e7rDSE0ODMUj/MYNJhd4DBDhMFAhPgCCoRh3a9eKtW3dGFWB8QTfqOr5PGcuYxpOhtgYM+tziSO/hM2tfuUCzD6cdW4wVUq/Pm9+LcCIHq1awNBhSJY1tp/JAD9T85kJBqLRSNJZ3YYYMS039RY5PJzzf3D4xjA+OHu59d3KuU4yOULkwBT05Vqra5Uen3HJ7NzAGj+4tJ8bbXemu8WFqnrS8uyF5J8k62uIQrQ+sYmhm1t7yCAntoIMi7vn1V0QgAAAABJRU5ErkJggg==) no-repeat left center;background:transparent url(//bits.wikimedia.org/static-1.22wmf1/extensions/MarkAsHelpful/modules/ext.markAsHelpful/images/mah-helpful-hover.png?2013-04-01T17:20:00Z) no-repeat left center!ie}.mw-mah-wrapper .mah-helpful-marked-state{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAzFBMVEX///+AgICB0KiF0qtAuHtOvYWF0qt4zaFAuHtEun6F0qt9z6V9z6V4zaGB0KhgxJF4zaFgxJFZwYxsyJpyy51ZwYxTv4mB0KhOvYVyy51OvYVIu4FIu4FsyJpEun5Eun5AuHtmxpVTv4lmxpVAuHtsyJpyy51ZwYxTv4l4zaEQJhsrXUNAuHtOvYWF0qsSKR0ZNicVLiFfon9gpIEULyEJEQ0RKx4RJhyB0KhuxJdEun4FCgckUjszXkgmWUAwWUVmxpVgxJFIu4F9z6VRJyO9AAAAJXRSTlMAAPPYgfOH88lIGFpUG1r5FfPbz4TPh1cbhxVaVNvk3g/5hPAMT7vCKAAAAJhJREFUeF5lztUKw0AQhtFuVOru3rVY1V3e/536N4EQyAfDDOdqctkIIY6hhqFqODgjKCmnKKUdQ/6bVPhD0ZRyI9FWSrMC6DLGrgztz4w1AENK6Z2iJ6YOmL5SzQHld6oqoMb52uPIW3HeBLSEEMebEI8ljhmgowdBsHPdA5beA5D+J2kQv26PLlFjm8RAJprl+5a2IIBMPybPHPtdJtGCAAAAAElFTkSuQmCC) no-repeat left center;background:transparent url(//bits.wikimedia.org/static-1.22wmf1/extensions/MarkAsHelpful/modules/ext.markAsHelpful/images/mah-helpful-marked.png?2013-04-01T17:20:00Z) no-repeat left center!ie;padding-left:18px}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:640aff72aa22e209665e045695edae36 */
+.referencetooltip{position:absolute;list-style:none;list-style-image:none;opacity:0;font-size:10px;margin:0;z-index:5;padding:0}.referencetooltip li{border:#080086 2px solid;max-width:260px;padding:10px 8px 13px 8px;margin:0px;background-color:#F7F7F7;box-shadow:2px 4px 2px rgba(0,0,0,0.3);-moz-box-shadow:2px 4px 2px rgba(0,0,0,0.3);-webkit-box-shadow:2px 4px 2px rgba(0,0,0,0.3)}.referencetooltip li+li{margin-left:7px;margin-top:-2px;border:0;padding:0;height:3px;width:0px;background-color:transparent;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;border-top:12px #080086 solid;border-right:7px transparent solid;border-left:7px transparent solid}.referencetooltip>li+li::after{content:'';border-top:8px #F7F7F7 solid;border-right:5px transparent solid;border-left:5px transparent solid;margin-top:-12px;margin-left:-5px;z-index:1;height:0px;width:0px;display:block}.client-js .referencetooltip li ul li{border:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;height:auto;width:auto;margin:auto;padding:0;position:static}.RTflipped{padding-top:13px}.referencetooltip.RTflipped li+li{position:absolute;top:2px;border-top:0;border-bottom:12px #080086 solid}.referencetooltip.RTflipped li+li::after{border-top:0;border-bottom:8px #F7F7F7 solid;position:absolute;margin-top:7px}.RTsettings{float:right;height:16px;width:16px;cursor:pointer;background-image:url(//upload.wikimedia.org/wikipedia/commons/e/ed/Cog.png);margin-top:-9px;margin-right:-7px;-webkit-transition:opacity 0.15s;-moz-transition:opacity 0.15s;-o-transition:opacity 0.15s;-ms-transition:opacity 0.15s;transition:opacity 0.15s;opacity:0.6;filter:alpha(opacity=60)}.RTsettings:hover{opacity:1;filter:alpha(opacity=100)}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:f043a32bb7f4917227bd98422c2a56ec */
+div#editpage-specialchars{display:block;margin-top:.5em;border:1px solid #c0c0c0;padding:.3em}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:29386c84f9c8f19dfb410df7e5be154b */
+.mw-collapsible-toggle{float:right} li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:4250852ed2349a0d4d0fc6509a3e7d4c */
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px -1px 0 0} html > body .suggestions{margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left}.suggestions-result-current{background-color:#4C59A6;color:white}.suggestions-special .special-label{color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white}.autoellipsis-matched,.highlight{font-weight:bold}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:9780324491b653a3780e2d029bdc140c */
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{text-decoration:none;color:black}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:white}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:52b1797f70c7e4094dfa4191101944e8 */
+#container{position:relative;min-height:100%}#container,video{width:100%;height:100%}#playerContainer{overflow:hidden;position:relative;height:100%;background:#000}#videoHolder{position:relative;overflow:hidden}.fullscreen #playerContainer{position:absolute !important;width:100% !important;height:100%! important;z-index:9999;min-height:100%;top:0;left:0;margin:0}.mwEmbedPlayer{width:100%;height:100%;overflow:hidden;position:absolute;top:0;left:0}.modal_editor{ left:10px;top:10px;right:10px;bottom:10px;position:fixed;z-index:100}.displayHTML a:visited{color:white}.loadingSpinner{width:32px;height:32px;display:block;padding:0px;background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/MwEmbedSupport/MwEmbedModules/MwEmbedSupport/skins/common/images/loading_ani.gif?2013-04-01T17:21:40Z)}.mw-imported-resource{border:thin solid black}.kaltura-icon{background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/MwEmbedSupport/MwEmbedModules/MwEmbedSupport/skins/common/images/kaltura_logo_sm_transparent.png?2013-04-01T17:21:40Z) !important;background-repeat:no-repeat;display:block;height:12px;width:12px;margin-top:2px !important;margin-left:3px !important}.mw-fullscreen-overlay{background:rgb(0,0,0) none repeat scroll 0% 0%;position:fixed;top:0pt;left:0pt;width:100%;height:100%;-moz-background-clip:border;-moz-background-origin:padding;-moz-background-inline-policy:continuous} .play-btn-large{width:70px;height:53px;background :url(//bits.wikimedia.org/static-1.22wmf1/extensions/MwEmbedSupport/MwEmbedModules/MwEmbedSupport/skins/common/images/player_big_play_button.png?2013-04-01T17:21:40Z);position :absolute;cursor :pointer;border :none !important;z-index :1}.play-btn-large:hover{background :url(//bits.wikimedia.org/static-1.22wmf1/extensions/MwEmbedSupport/MwEmbedModules/MwEmbedSupport/skins/common/images/player_big_play_button_hover.png?2013-04-01T17:21:40Z)}.carouselContainer{position :absolute;width :100%;z-index :2}.carouselVideoTitle{position :absolute;top :0px;left :0px;width :100%;background :rgba(0,0,0,0.8);color :white;font-size :small;font-weight :bold;z-index :2}.carouselVideoTitleText{display :block;padding :10px 10px 10px 20px}.carouselTitleDuration{position :absolute;top :0px;right :0px;padding :2px;background-color :#5A5A5A;color :#D9D9D9;font-size :smaller;z-index :2}.carouselImgTitle{position :absolute;width :100%;text-align :center;color :white;font-size :small;background :rgba(0,0,0,0.4)}.carouselImgDuration{position :absolute;top :2px;left :2px;background :rgba( 0,0,0,0.7 );color :white;padding :1px 6px;font-size :small}.carouselPrevButton,.carouselNextButton{display :block;position :absolute;bottom:23px}.carouselPrevButton{left :5px}.carouselNextButton{right:6px}.alert-container{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;background-image:linear-gradient(bottom,rgb(215,215,215) 4%,rgb(230,230,230) 55%,rgb(255,255,255) 100%);background-image:-o-linear-gradient(bottom,rgb(215,215,215) 4%,rgb(230,230,230) 55%,rgb(255,255,255) 100%);background-image:-moz-linear-gradient(bottom,rgb(215,215,215) 4%,rgb(230,230,230) 55%,rgb(255,255,255) 100%);background-image:-webkit-linear-gradient(bottom,rgb(215,215,215) 4%,rgb(230,230,230) 55%,rgb(255,255,255) 100%);background-image:-ms-linear-gradient(bottom,rgb(215,215,215) 4%,rgb(230,230,230) 55%,rgb(255,255,255) 100%);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0.04,rgb(215,215,215)),color-stop(0.55,rgb(230,230,230)),color-stop(1,rgb(255,255,255)));margin:auto;position:absolute;top:0;left:0;right:0;bottom:0;max-width:80%;max-height:30%}.alert-title{background-color :#E6E6E6;padding :5px;border-bottom :1px solid #D1D1D1;font-weight :normal !important;font-size:14px !important;-webkit-border-top-left-radius:3px;-moz-border-radius-topleft:3px;border-top-left-radius:3px;-webkit-border-top-right-radius:3px;-moz-border-radius-topright:3px;border-top-right-radius:3px }.alert-message{padding :5px;font-weight :normal !important;text-align:center;font-size:14px !important}.alert-buttons-container{text-align:center;padding-bottom:5px}.alert-button{background-color:#474747;color:white;-webkit-border-radius:.5em;-moz-border-radius:.5em;border-radius:.5em;padding:2px 10px;background-image:linear-gradient(bottom,rgb(25,25,25) 4%,rgb(47,47,47) 55%,rgb(71,71,71) 68%);background-image:-o-linear-gradient(bottom,rgb(25,25,25) 4%,rgb(47,47,47) 55%,rgb(71,71,71) 68%);background-image:-moz-linear-gradient(bottom,rgb(25,25,25) 4%,rgb(47,47,47) 55%,rgb(71,71,71) 68%);background-image:-webkit-linear-gradient(bottom,rgb(25,25,25) 4%,rgb(47,47,47) 55%,rgb(71,71,71) 68%);background-image:-ms-linear-gradient(bottom,rgb(25,25,25) 4%,rgb(47,47,47) 55%,rgb(71,71,71) 68%);background-image:-webkit-gradient( linear,left bottom,left top,color-stop(0.04,rgb(25,25,25)),color-stop(0.55,rgb(47,47,47)),color-stop(0.68,rgb(71,71,71)) )}.alert-text{color :black !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:1c8ecdbcf347e8472acb044170ae4bb5 */
+#mw-panel.collapsible-nav .portal{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAS1BMVEXb29vy8vLv7+/c3NzZ2dni4uLr6+vt7e3s7Ozw8PDn5+fj4+Ph4eHd3d3f39/o6Ojl5eXp6enx8fHa2trg4ODq6urk5OTz8/PY2NjolWftAAAAO0lEQVR4XrXAhwGAMAgEQB5I71X3n9QpPHqAGZidt2e02G8yedciQkv1/YPqIpFSdzbp9tjGsd4xhwl8yuMKHhkJhm8AAAAASUVORK5CYII=) left top no-repeat;background:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Vector/modules/images/portal-break.png?2013-04-01T17:23:20Z) left top no-repeat!ie;padding:0.25em 0 !important;margin:-11px 9px 10px 11px}#mw-panel.collapsible-nav .portal h3,#mw-panel.collapsible-nav .portal h5{color:#4D4D4D;font-weight:normal;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX////d3d2ampqxsbF5eXmCtCYvAAAAAXRSTlMAQObYZgAAADBJREFUeF6dzNEJACAMA1HdINQJCp1Ebv+ZlLYLaD4f4cbnDNi6MAO8KCHJ+7X02j3mzgMQe93HcQAAAABJRU5ErkJggg==) left center no-repeat;background:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Vector/modules/images/open.png?2013-04-01T17:23:20Z) left center no-repeat!ie;padding:4px 0 3px 1.5em;margin-bottom:0}#mw-panel.collapsible-nav .portal h3:hover,#mw-panel.collapsible-nav .portal h5:hover{cursor:pointer;text-decoration:none}#mw-panel.collapsible-nav .portal h3 a,#mw-panel.collapsible-nav .portal h5 a{color:#4D4D4D;text-decoration:none}#mw-panel.collapsible-nav .portal .body{background:none !important;padding-top:0;display:none}#mw-panel.collapsible-nav .portal .body ul li{padding:0.25em 0} #mw-panel.collapsible-nav .portal.first h3,#mw-panel.collapsible-nav .portal.first h5{display:none}#mw-panel.collapsible-nav .portal.first{background-image:none;margin-top:0} #mw-panel.collapsible-nav .portal.persistent .body{display:block}#mw-panel.collapsible-nav .portal.persistent h3,#mw-panel.collapsible-nav .portal.persistent h5{background:none !important;padding-left:0.7em;cursor:default}#mw-panel.collapsible-nav .portal.persistent .body{margin-left:0.5em} #mw-panel.collapsible-nav .portal.collapsed h3,#mw-panel.collapsible-nav .portal.collapsed h5{color:#0645AD;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEX///95eXnd3d2dnZ3aAo3QAAAAAXRSTlMAQObYZgAAADFJREFUeF5dyzEKACAMA0CXolNe2Id09Kl5igZahWY4AiGjZwmIuS9GEcJfY63Ix88Bol4EYP1O7JMAAAAASUVORK5CYII=) left center no-repeat;background:url(//bits.wikimedia.org/static-1.22wmf1/extensions/Vector/modules/images/closed-ltr.png?2013-04-01T17:23:20Z) left center no-repeat!ie;margin-bottom:0}#mw-panel.collapsible-nav .portal.collapsed h3 a,#mw-panel.collapsible-nav .portal.collapsed h5 a{color:#0645AD}#mw-panel.collapsible-nav .portal.collapsed h3:hover,#mw-panel.collapsible-nav .portal.collapsed h5:hover{text-decoration:underline}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:b1ed8e11766c7f8be654e57f45897a33 */
+.ui-helper-hidden{display:none}.ui-helper-hidden-accessible{position:absolute;left:-99999999px}.ui-helper-reset{margin:0;padding:0;border:0;outline:0;line-height:1.3;text-decoration:none;font-size:100%;list-style:none}.ui-helper-clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.ui-helper-clearfix{display:inline-block} * html .ui-helper-clearfix{height:1%}.ui-helper-clearfix{display:block} .ui-helper-zfix{width:100%;height:100%;top:0;left:0;position:absolute;opacity:0;filter:Alpha(Opacity=0)} .ui-state-disabled{cursor:default !important}  .ui-icon{display:block;text-indent:-99999px;overflow:hidden;background-repeat:no-repeat}  .ui-widget-overlay{position:absolute;top:0;left:0;width:100%;height:100%}  .ui-widget{font-family:sans-serif;font-size:0.8em}.ui-widget .ui-widget{font-size:1em}.ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-family:sans-serif;font-size:1em}.ui-widget-content{border:1px solid #cccccc;background:#f2f5f7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAAKElEQVQYV2P6+ev3fyYGIBiGxH8w6/9/GAsshuD+Byv5D2dhKh6eBAAABBSmkTpaYQAAAABJRU5ErkJggg==) 50% top repeat-x;background:#f2f5f7 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png?2013-04-01T17:18:20Z) 50% top repeat-x!ie;color:#362b36}.ui-widget-content a{color:#362b36}.ui-widget-header{border-bottom:1px solid #bbbbbb;line-height:1em;background:#ffffff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAAF0lEQVQYV2P49+/ff4ZhQPwHglGCKAIAdlSOCIOoOV0AAAAASUVORK5CYII=) 50% 50% repeat-x;background:#ffffff url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_highlight-soft_100_ffffff_1x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;color:#222222;font-weight:bold}.ui-widget-header a{color:#222222} .ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{border:1px solid #aed0ea;background:#d7ebf9 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAAL0lEQVQY02N69eXPfyYGIBhexH+G/0DiP5gFJP79RxAwiX9giX//kZUgdDAMXwIA/14cgwH0gmgAAAAASUVORK5CYII=) 50% 50% repeat-x;background:#d7ebf9 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_highlight-hard_80_d7ebf9_1x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;font-weight:normal;color:#2779aa}.ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited{color:#2779aa;text-decoration:none}.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{border:1px solid #74b2e2;background:#e4f1fb url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAAMUlEQVQYV2P68vPvfyYGIBhCxP//cBacYAAKInGRlIBYaBJQHWAWXBuqoVBZmNhwIgBlYh6Ywkr41gAAAABJRU5ErkJggg==) 50% 50% repeat-x;background:#e4f1fb url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_highlight-soft_100_e4f1fb_1x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;font-weight:normal;color:#0070a3}.ui-state-hover a,.ui-state-hover a:hover{color:#0070a3;text-decoration:none}.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{border:1px solid #cccccc;background:#f0f0f0 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAAIElEQVQYV2P68OHDfyYGIBiuBCMjIzILGxdNDI017AgARXMEsCkUdugAAAAASUVORK5CYII=) 50% 50% repeat-x;url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_inset-hard_100_f0f0f0_1x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;font-weight:normal;color:#000000}.ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#000000;text-decoration:none}.ui-widget :active{outline:none} .ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight{border:1px solid #f9dd34;background:#ffef8f url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAAEwK2r2AAAAX0lEQVQYV2P+/3HBf+aGyoAGTMK3gbm+3B1IVLgCuRUe2AlsBtRX+oG0eYEMcAOpcyNeLx4CbKgP3GRPEAtssjse95HkcOoQUO/7obrZG+rwBrjrGyo8oa6vJ88L5BEAeRC4pmqV01IAAAAASUVORK5CYII=) 50% top repeat-x;url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_highlight-soft_25_ffef8f_1x100.png?2013-04-01T17:18:20Z) 50% top repeat-x!ie;color:#363636}.ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a{color:#363636}.ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error{border:1px solid #cd0a0a;background:#cd0a0a url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABkAQMAAADOquA5AAAAA1BMVEXNCgokNzldAAAAD0lEQVQoFWNgGAWjgPoAAAJYAAEDeXiTAAAAAElFTkSuQmCC) 50% 50% repeat-x;url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_flat_15_cd0a0a_40x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;color:#ffffff}.ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a{color:#ffffff}.ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text{color:#ffffff}.ui-priority-primary,.ui-widget-content .ui-priority-primary,.ui-widget-header .ui-priority-primary{font-weight:bold}.ui-priority-secondary,.ui-widget-content .ui-priority-secondary,.ui-widget-header .ui-priority-secondary{opacity:.7;filter:Alpha(Opacity=70);font-weight:normal}.ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:Alpha(Opacity=35);background-image:none}  .ui-icon{width:16px;height:16px}.ui-icon,.ui-widget-content .ui-icon,.ui-widget-header .ui-icon{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAADwCAMAAADYSUr5AAAA7VBMVEV0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psx0psyPQTyXAAAATnRSTlMAGBAyBAhQv4OZLiJUcEBmYBoSzQwgPBZCSEoeWiYwUiyFNIeBw2rJz8c4RBy9uXyrtaWNqa2zKP2fJO8KBgKPo2KVoa9s351GPm5+kWho0kj9AAAM6klEQVR4XuybAYrjMAxFrRzw3f84C2F2g+ex34Q0NKV6sCzNl2xLVpy47own0DRNUV8ePw/PAHU5xChSUJMx9cYKBGAy0ATBL7VA6kGBOpD/ZAz1vgoEQHPkBHgGrdrdHdhYLrfg8ccQgl5ABe/QuoFSj/cC5QBdAblCPMOxAsIAVAFvwUNUfCIYFCzSC6U14DueAr6FdmOqX4Sapmmapmm+4k2wHvUi5t0OVAiIHZSv/H1A+EKoUBO34gEoATaYzScD5avcHBU3j2riBjz+POIgF1AhXzGfBtj/3Y0r+KDSiMvmDrhSPmUeKuBNFHd+H+A7xGtAPwW+gqZpmqZpGq55A1xqn/cGMIB4weJJONe/E4o+WI8esX0GNpndsZY60ACkrvvP8SBZutQQgbvjl4jEWEFywGLuP26XcQKCzE6OILnHAThAdmYDZnN21P+JFOUShlV+HTHZ3QM418OJ8KzaAHQh60Ng/1zQoUPLvpRVxkV4qH9+TDZN0zRN01z/WSpcHkDcL2aNnRHIasG5AYQOZBUjyAOYj5WoScpQaQONj/chbjCX/ctdAUjLAwCYDxahJi1WEFRMQKm7dZnFDECMH4m6YncOkSlFjFBB3g47wfgKYz0ApKoBjVD+0uVvGTUwQoBKgBK0ToAGIHsZrGWI++dhd98CoYuRboGCOnMLuMbdP2ERwwEIT5kk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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_72a7cf_256x240.png?2013-04-01T17:18:20Z)!ie}.ui-state-default .ui-icon{background-image:url(data:image/png;base64,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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_3d80b3_256x240.png?2013-04-01T17:18:20Z)!ie}.ui-state-hover .ui-icon,.ui-state-focus .ui-icon{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAADwCAMAAADYSUr5AAAA7VBMVEUkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwkluwOSETqAAAATnRSTlMAGBAyBAhQv4OZLiJUcEBmYBoSzQwgPBZCSEoeWiYwUiyFNIeBw2rJz8c4RBy9uXyrtaWNqa2zKP2fJO8KBgKPo2KVoa9s351GPm5+kWho0kj9AAAM6klEQVR4XuybAYrjMAxFrRzw3f84C2F2g+ex34Q0NKV6sCzNl2xLVpy47own0DRNUV8ePw/PAHU5xChSUJMx9cYKBGAy0ATBL7VA6kGBOpD/ZAz1vgoEQHPkBHgGrdrdHdhYLrfg8ccQgl5ABe/QuoFSj/cC5QBdAblCPMOxAsIAVAFvwUNUfCIYFCzSC6U14DueAr6FdmOqX4Sapmmapmm+4k2wHvUi5t0OVAiIHZSv/H1A+EKoUBO34gEoATaYzScD5avcHBU3j2riBjz+POIgF1AhXzGfBtj/3Y0r+KDSiMvmDrhSPmUeKuBNFHd+H+A7xGtAPwW+gqZpmqZpGq55A1xqn/cGMIB4weJJONe/E4o+WI8esX0GNpndsZY60ACkrvvP8SBZutQQgbvjl4jEWEFywGLuP26XcQKCzE6OILnHAThAdmYDZnN21P+JFOUShlV+HTHZ3QM418OJ8KzaAHQh60Ng/1zQoUPLvpRVxkV4qH9+TDZN0zRN01z/WSpcHkDcL2aNnRHIasG5AYQOZBUjyAOYj5WoScpQaQONj/chbjCX/ctdAUjLAwCYDxahJi1WEFRMQKm7dZnFDECMH4m6YncOkSlFjFBB3g47wfgKYz0ApKoBjVD+0uVvGTUwQoBKgBK0ToAGIHsZrGWI++dhd98CoYuRboGCOnMLuMbdP2ERwwEIT5kk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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_2694e8_256x240.png?2013-04-01T17:18:20Z)!ie}.ui-state-active .ui-icon{background-image:url(data:image/png;base64,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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_666666_256x240.png?2013-04-01T17:18:20Z)!ie}.ui-state-highlight .ui-icon{background-image:url(data:image/png;base64,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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_2e83ff_256x240.png?2013-04-01T17:18:20Z)!ie}.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url(data:image/png;base64,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);background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_ffffff_256x240.png?2013-04-01T17:18:20Z)!ie} .ui-icon-carat-1-n{background-position:0 0}.ui-icon-carat-1-ne{background-position:-16px 0}.ui-icon-carat-1-e{background-position:-32px 0}.ui-icon-carat-1-se{background-position:-48px 0}.ui-icon-carat-1-s{background-position:-64px 0}.ui-icon-carat-1-sw{background-position:-80px 0}.ui-icon-carat-1-w{background-position:-96px 0}.ui-icon-carat-1-nw{background-position:-112px 0}.ui-icon-carat-2-n-s{background-position:-128px 0}.ui-icon-carat-2-e-w{background-position:-144px 0}.ui-icon-triangle-1-n{background-position:0 -16px}.ui-icon-triangle-1-ne{background-position:-16px -16px}.ui-icon-triangle-1-e{background-position:-32px -16px}.ui-icon-triangle-1-se{background-position:-48px -16px}.ui-icon-triangle-1-s{background-position:-64px -16px}.ui-icon-triangle-1-sw{background-position:-80px -16px}.ui-icon-triangle-1-w{background-position:-96px -16px}.ui-icon-triangle-1-nw{background-position:-112px -16px}.ui-icon-triangle-2-n-s{background-position:-128px -16px}.ui-icon-triangle-2-e-w{background-position:-144px -16px}.ui-icon-arrow-1-n{background-position:0 -32px}.ui-icon-arrow-1-ne{background-position:-16px -32px}.ui-icon-arrow-1-e{background-position:-32px -32px}.ui-icon-arrow-1-se{background-position:-48px -32px}.ui-icon-arrow-1-s{background-position:-64px -32px}.ui-icon-arrow-1-sw{background-position:-80px -32px}.ui-icon-arrow-1-w{background-position:-96px -32px}.ui-icon-arrow-1-nw{background-position:-112px -32px}.ui-icon-arrow-2-n-s{background-position:-128px -32px}.ui-icon-arrow-2-ne-sw{background-position:-144px -32px}.ui-icon-arrow-2-e-w{background-position:-160px -32px}.ui-icon-arrow-2-se-nw{background-position:-176px -32px}.ui-icon-arrowstop-1-n{background-position:-192px -32px}.ui-icon-arrowstop-1-e{background-position:-208px -32px}.ui-icon-arrowstop-1-s{background-position:-224px -32px}.ui-icon-arrowstop-1-w{background-position:-240px -32px}.ui-icon-arrowthick-1-n{background-position:0 -48px}.ui-icon-arrowthick-1-ne{background-position:-16px -48px}.ui-icon-arrowthick-1-e{background-position:-32px -48px}.ui-icon-arrowthick-1-se{background-position:-48px -48px}.ui-icon-arrowthick-1-s{background-position:-64px -48px}.ui-icon-arrowthick-1-sw{background-position:-80px -48px}.ui-icon-arrowthick-1-w{background-position:-96px -48px}.ui-icon-arrowthick-1-nw{background-position:-112px -48px}.ui-icon-arrowthick-2-n-s{background-position:-128px -48px}.ui-icon-arrowthick-2-ne-sw{background-position:-144px -48px}.ui-icon-arrowthick-2-e-w{background-position:-160px -48px}.ui-icon-arrowthick-2-se-nw{background-position:-176px -48px}.ui-icon-arrowthickstop-1-n{background-position:-192px -48px}.ui-icon-arrowthickstop-1-e{background-position:-208px -48px}.ui-icon-arrowthickstop-1-s{background-position:-224px -48px}.ui-icon-arrowthickstop-1-w{background-position:-240px -48px}.ui-icon-arrowreturnthick-1-w{background-position:0 -64px}.ui-icon-arrowreturnthick-1-n{background-position:-16px -64px}.ui-icon-arrowreturnthick-1-e{background-position:-32px -64px}.ui-icon-arrowreturnthick-1-s{background-position:-48px -64px}.ui-icon-arrowreturn-1-w{background-position:-64px -64px}.ui-icon-arrowreturn-1-n{background-position:-80px -64px}.ui-icon-arrowreturn-1-e{background-position:-96px -64px}.ui-icon-arrowreturn-1-s{background-position:-112px -64px}.ui-icon-arrowrefresh-1-w{background-position:-128px -64px}.ui-icon-arrowrefresh-1-n{background-position:-144px -64px}.ui-icon-arrowrefresh-1-e{background-position:-160px -64px}.ui-icon-arrowrefresh-1-s{background-position:-176px -64px}.ui-icon-arrow-4{background-position:0 -80px}.ui-icon-arrow-4-diag{background-position:-16px -80px}.ui-icon-extlink{background-position:-32px -80px}.ui-icon-newwin{background-position:-48px -80px}.ui-icon-refresh{background-position:-64px -80px}.ui-icon-shuffle{background-position:-80px -80px}.ui-icon-transfer-e-w{background-position:-96px -80px}.ui-icon-transferthick-e-w{background-position:-112px -80px}.ui-icon-folder-collapsed{background-position:0 -96px}.ui-icon-folder-open{background-position:-16px -96px}.ui-icon-document{background-position:-32px -96px}.ui-icon-document-b{background-position:-48px -96px}.ui-icon-note{background-position:-64px -96px}.ui-icon-mail-closed{background-position:-80px -96px}.ui-icon-mail-open{background-position:-96px -96px}.ui-icon-suitcase{background-position:-112px -96px}.ui-icon-comment{background-position:-128px -96px}.ui-icon-person{background-position:-144px -96px}.ui-icon-print{background-position:-160px -96px}.ui-icon-trash{background-position:-176px -96px}.ui-icon-locked{background-position:-192px -96px}.ui-icon-unlocked{background-position:-208px -96px}.ui-icon-bookmark{background-position:-224px -96px}.ui-icon-tag{background-position:-240px -96px}.ui-icon-home{background-position:0 -112px}.ui-icon-flag{background-position:-16px -112px}.ui-icon-calendar{background-position:-32px -112px}.ui-icon-cart{background-position:-48px -112px}.ui-icon-pencil{background-position:-64px -112px}.ui-icon-clock{background-position:-80px -112px}.ui-icon-disk{background-position:-96px -112px}.ui-icon-calculator{background-position:-112px -112px}.ui-icon-zoomin{background-position:-128px -112px}.ui-icon-zoomout{background-position:-144px -112px}.ui-icon-search{background-position:-160px -112px}.ui-icon-wrench{background-position:-176px -112px}.ui-icon-gear{background-position:-192px -112px}.ui-icon-heart{background-position:-208px -112px}.ui-icon-star{background-position:-224px -112px}.ui-icon-link{background-position:-240px -112px}.ui-icon-cancel{background-position:0 -128px}.ui-icon-plus{background-position:-16px -128px}.ui-icon-plusthick{background-position:-32px -128px}.ui-icon-minus{background-position:-48px -128px}.ui-icon-minusthick{background-position:-64px -128px}.ui-icon-close{background-position:-80px -128px}.ui-icon-closethick{background-position:-96px -128px}.ui-icon-key{background-position:-112px -128px}.ui-icon-lightbulb{background-position:-128px -128px}.ui-icon-scissors{background-position:-144px -128px}.ui-icon-clipboard{background-position:-160px -128px}.ui-icon-copy{background-position:-176px -128px}.ui-icon-contact{background-position:-192px -128px}.ui-icon-image{background-position:-208px -128px}.ui-icon-video{background-position:-224px -128px}.ui-icon-script{background-position:-240px -128px}.ui-icon-alert{background-position:0 -144px}.ui-icon-info{background-position:-16px -144px}.ui-icon-notice{background-position:-32px -144px}.ui-icon-help{background-position:-48px -144px}.ui-icon-check{background-position:-64px -144px}.ui-icon-bullet{background-position:-80px -144px}.ui-icon-radio-off{background-position:-96px -144px}.ui-icon-radio-on{background-position:-112px -144px}.ui-icon-pin-w{background-position:-128px -144px}.ui-icon-pin-s{background-position:-144px -144px}.ui-icon-play{background-position:0 -160px}.ui-icon-pause{background-position:-16px -160px}.ui-icon-seek-next{background-position:-32px -160px}.ui-icon-seek-prev{background-position:-48px -160px}.ui-icon-seek-end{background-position:-64px -160px}.ui-icon-seek-start{background-position:-80px -160px} .ui-icon-seek-first{background-position:-80px -160px}.ui-icon-stop{background-position:-96px -160px}.ui-icon-eject{background-position:-112px -160px}.ui-icon-volume-off{background-position:-128px -160px}.ui-icon-volume-on{background-position:-144px -160px}.ui-icon-power{background-position:0 -176px}.ui-icon-signal-diag{background-position:-16px -176px}.ui-icon-signal{background-position:-32px -176px}.ui-icon-battery-0{background-position:-48px -176px}.ui-icon-battery-1{background-position:-64px -176px}.ui-icon-battery-2{background-position:-80px -176px}.ui-icon-battery-3{background-position:-96px -176px}.ui-icon-circle-plus{background-position:0 -192px}.ui-icon-circle-minus{background-position:-16px -192px}.ui-icon-circle-close{background-position:-32px -192px}.ui-icon-circle-triangle-e{background-position:-48px -192px}.ui-icon-circle-triangle-s{background-position:-64px -192px}.ui-icon-circle-triangle-w{background-position:-80px -192px}.ui-icon-circle-triangle-n{background-position:-96px -192px}.ui-icon-circle-arrow-e{background-position:-112px -192px}.ui-icon-circle-arrow-s{background-position:-128px -192px}.ui-icon-circle-arrow-w{background-position:-144px -192px}.ui-icon-circle-arrow-n{background-position:-160px -192px}.ui-icon-circle-zoomin{background-position:-176px -192px}.ui-icon-circle-zoomout{background-position:-192px -192px}.ui-icon-circle-check{background-position:-208px -192px}.ui-icon-circlesmall-plus{background-position:0 -208px}.ui-icon-circlesmall-minus{background-position:-16px -208px}.ui-icon-circlesmall-close{background-position:-32px -208px}.ui-icon-squaresmall-plus{background-position:-48px -208px}.ui-icon-squaresmall-minus{background-position:-64px -208px}.ui-icon-squaresmall-close{background-position:-80px -208px}.ui-icon-grip-dotted-vertical{background-position:0 -224px}.ui-icon-grip-dotted-horizontal{background-position:-16px -224px}.ui-icon-grip-solid-vertical{background-position:-32px -224px}.ui-icon-grip-solid-horizontal{background-position:-48px -224px}.ui-icon-gripsmall-diagonal-se{background-position:-64px -224px}.ui-icon-grip-diagonal-se{background-position:-80px -224px}  .ui-corner-tl{-moz-border-radius-topleft:0;-webkit-border-top-left-radius:0}.ui-corner-tr{-moz-border-radius-topright:0;-webkit-border-top-right-radius:0}.ui-corner-bl{-moz-border-radius-bottomleft:0;-webkit-border-bottom-left-radius:0}.ui-corner-br{-moz-border-radius-bottomright:0;-webkit-border-bottom-right-radius:0}.ui-corner-top{-moz-border-radius-topleft:0;-webkit-border-top-left-radius:0;-moz-border-radius-topright:0;-webkit-border-top-right-radius:0}.ui-corner-bottom{-moz-border-radius-bottomleft:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomright:0;-webkit-border-bottom-right-radius:0}.ui-corner-right{-moz-border-radius-topright:0;-webkit-border-top-right-radius:0;-moz-border-radius-bottomright:0;-webkit-border-bottom-right-radius:0}.ui-corner-left{-moz-border-radius-topleft:0;-webkit-border-top-left-radius:0;-moz-border-radius-bottomleft:0;-webkit-border-bottom-left-radius:0}.ui-corner-all{-moz-border-radius:0;-webkit-border-radius:0} .ui-widget-overlay{background:#000000;opacity:.75;filter:Alpha(Opacity=75)}.ui-widget-shadow{margin:-7px 0 0 -7px;padding:7px;background:#000000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABkAQMAAADOquA5AAAAA1BMVEUAAACnej3aAAAAD0lEQVQoFWNgGAWjgPoAAAJYAAEDeXiTAAAAAElFTkSuQmCC) 50% 50% repeat-x;background:#000000 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-bg_flat_70_000000_40x100.png?2013-04-01T17:18:20Z) 50% 50% repeat-x!ie;opacity:.20;filter:Alpha(Opacity=20);-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:5537d6594a2299a26b9de8b4be0dbe83 */
+.ui-resizable{position:relative}.ui-resizable-handle{position:absolute;font-size:0.1px;z-index:99999;display:block}.ui-resizable-disabled .ui-resizable-handle,.ui-resizable-autohide .ui-resizable-handle{display:none}.ui-resizable-n{cursor:n-resize;height:7px;width:100%;top:-5px;left:0}.ui-resizable-s{cursor:s-resize;height:7px;width:100%;bottom:-5px;left:0} .ui-resizable-e{cursor:e-resize;width:7px;right:-5px;top:0;height:100%} .ui-resizable-w{cursor:w-resize;width:7px;left:-5px;top:0;height:100%} .ui-resizable-se{cursor:se-resize;width:12px;height:12px;right:1px;bottom:1px} .ui-resizable-sw{cursor:sw-resize;width:9px;height:9px;left:-5px;bottom:-5px} .ui-resizable-nw{cursor:nw-resize;width:9px;height:9px;left:-5px;top:-5px} .ui-resizable-ne{cursor:ne-resize;width:9px;height:9px;right:-5px;top:-5px}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:6edb0b5932c338be8f0957237aa57681 */
+.ui-button{display:inline-block;position:relative;padding:0;margin-right:.1em;text-decoration:none !important;cursor:pointer;text-align:center;zoom:1;overflow:visible; }.ui-button-icon-only{width:2.2em; }button.ui-button-icon-only{width:2.4em; }.ui-button-icons-only{width:3.4em}button.ui-button-icons-only{width:3.7em} .ui-button .ui-button-text{display:block;line-height:1.4}.ui-button-text-only .ui-button-text{padding:0.3em 1em 0.25em 1em}.ui-button-icon-only .ui-button-text,.ui-button-icons-only .ui-button-text{padding:0.3em;text-indent:-9999999px}.ui-button-text-icon-primary .ui-button-text,.ui-button-text-icons .ui-button-text{padding:0.3em 1em 0.25em 2.1em}.ui-button-text-icon-secondary .ui-button-text,.ui-button-text-icons .ui-button-text{padding:0.3em 2.1em 0.25em 1em}.ui-button-text-icons .ui-button-text{padding-left:2.1em;padding-right:2.1em} input.ui-button{padding:0.3em 1em} .ui-button-icon-only .ui-icon,.ui-button-text-icon-primary .ui-icon,.ui-button-text-icon-secondary .ui-icon,.ui-button-text-icons .ui-icon,.ui-button-text-icon .ui-icon,.ui-button-icons-only .ui-icon{position:absolute;top:50%;margin-top:-9px}.ui-button-icon-only .ui-icon{left:50%;margin-left:-8px}.ui-button-text-icon-primary .ui-button-icon-primary,.ui-button-text-icon .ui-button-icon-primary,.ui-button-text-icons .ui-button-icon-primary,.ui-button-icons-only .ui-button-icon-primary{left:0.5em}.ui-button-text-icon-secondary .ui-button-icon-secondary,.ui-button-text-icon .ui-button-icon-secondary,.ui-button-text-icons .ui-button-icon-secondary,.ui-button-icons-only .ui-button-icon-secondary{right:0.5em} .ui-buttonset{margin-right:7px}.ui-buttonset .ui-button{margin-left:0;margin-right:-.3em} button.ui-button::-moz-focus-inner{border:0;padding:0; }body .ui-button{margin:0.5em 0 0.5em 0.4em;border:1px solid #a6a6a6 !important;background:#f2f2f2 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWBAMAAADz6OuZAAAALVBMVEXh4eHR0dHr6+vb29vo6Ojl5eXV1dXv7+/w8PDt7e3d3d3X19fx8fHy8vLPz88WlQFaAAAAJklEQVQIHWO6wMTA9AGIDwBJBaYJQCzAtIFpAZDVAKQ3MIHkoRAA6kAJDVgW4y4AAAAASUVORK5CYII=) repeat-x scroll 50% 100% !important;background:#f2f2f2 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-off.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie;cursor:pointer;font-size:1em;line-height:1.4em;width:auto;overflow:visible}  .ui-button.ui-corner-all,.ui-button.ui-corner-top,.ui-button.ui-corner-left,.ui-button.ui-corner-tl{-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;border-top-left-radius:4px}.ui-button.ui-corner-all,.ui-button.ui-corner-top,.ui-button.ui-corner-right,.ui-button.ui-corner-tr{-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px;border-top-right-radius:4px}.ui-button.ui-corner-all,.ui-button.ui-corner-bottom,.ui-button.ui-corner-left,.ui-button.ui-corner-bl{-moz-border-radius-bottomleft:4px;-webkit-border-bottom-left-radius:4px;border-bottom-left-radius:4px}.ui-button.ui-corner-all,.ui-button.ui-corner-bottom,.ui-button.ui-corner-right,.ui-button.ui-corner-br{-moz-border-radius-bottomright:4px;-webkit-border-bottom-right-radius:4px;border-bottom-right-radius:4px}body .ui-button:hover{border-color:#6e7273;background:#e1e1e1 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWBAMAAADz6OuZAAAALVBMVEXR0dHe3t7Y2NjIyMjV1dXf39/CwsLc3NzGxsbNzc3a2trh4eHg4ODMzMzAwMAj4qyZAAAAKUlEQVQIHWPawMTAJADEE5gOMCUwGTA1MCkAWROYHIC8AKYHQD4DDAIAsAAHDYu3YWAAAAAASUVORK5CYII=) repeat-x scroll 50% 100% !important;background:#e1e1e1 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-over.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button:active,body .ui-button:focus{border-color:#707271;background:#bfbfbf url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAgBAMAAAAhyw8pAAAAGFBMVEXc3NzGxsba2tre3t7V1dXQ0NDMzMzAwMAJtu+DAAAAJUlEQVQIW2MIYABBBwYFBgYGAzBkALJB0AEIAxgSwFAADAswIQDmgAjBBvE06AAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#bfbfbf url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-down.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.disabled{color:#7f7f7f;border-color:#cccccc;background:#f2f2f2 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWAQMAAAA7CGTpAAAAA1BMVEXy8vJkA4prAAAADElEQVQIHWNgIB4AAAAsAAHHpi09AAAAAElFTkSuQmCC) repeat-x scroll 50% 100% !important;background:#f2f2f2 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-disabled.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie} body button.ui-button::-moz-focus-inner{border:0} body .ui-button-large{padding:5px} .ui-button-green .ui-icon,.ui-button-blue .ui-icon,.ui-button-red .ui-icon,.ui-button-orange .ui-icon{background-image:url(data:image/png;base64,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) !important;background-image:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/ui-icons_ffffff_256x240.png?2013-04-01T17:18:20Z) !important!ie} body .ui-button.ui-button-green{color:white !important;border-color:#97af7e !important;background:#3cb677 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEUpflI7tXYxl2MujVwqgFQ1omk2pWwoeU8vkF4sh1gwlGA5rnI7s3Uzm2U3qG4oe1A0n2c4q3AtilovfVUrg1Y6sXPiEyGEAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJYLVZ3HZVcVpE01dchteGYfm+QEULwDomj1/qwAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#3cb677 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-green.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-green:hover{border-color:#778e61 !important;background:#339b65 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEUkbUcpflIja0Yxl2IoakgxlGEymGQsh1goe1Awkl8tilkqgFQrhFYvj14neE4lb0klc0siZ0MiaUQymmQmdU0ujFwT8ddqAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJR5VUgybz9SsFkG3e50ORLdL/gET1wDo6WccxwAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#339b65 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-green-hover.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-green.ui-button-large{background:#3cb677 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAhFBMVEUpflI7tXYxl2MujVwznGYrglUqgFQ1omk2pWw2p20wkl8oeU8shVc0oGgpfVExlmIvkF4sh1g5sHMwlGA8tnc5rnI7s3Uzm2U3qm83qG4ui1soe1AymWQneE4qf1Mvj100n2c6snQ1pGstiFkoelA4q3Atilo4rXEvfVUrg1Y7tHY6sXMmHHEHAAAAQElEQVR4XgXAgxHDAAAAwI/t2ub+++UsBH5Wrv5GS29PG1uF3E2mcRFbOwh1JqXeWWTn5W5Q+0qkTmjtPVSOPjOmhAOzqcaxkwAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#3cb677 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-green-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-green.ui-button-large:hover{background:#339b65 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAhFBMVEUkbUcoek8kbEcpflIpfFEja0Yxl2Ioakgxl2MxlGExlmIymGQsh1goe1Awkl8hZkIjakUndk0tilkqgFQlb0grhFYvj14ujl0rglUmdEwzm2UsiFkiaEQymWQneE4lb0klcUovkV4lc0siZ0MiaUQymmQtjFsqgFMwk2AmdU0rhVcujFzu4mGUAAAAQElEQVR4XgXAgxHDAAAAwI/t2ub+++XsPB1VcqlS4aN1tbL29zLaq/0sbUzeIrFG4GTwtXVzcbZAKNF7OLjrZDOnXAOzVTrJJQAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#339b65 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-green-hover-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-green.disabled{filter:alpha(opacity=50);-moz-opacity:0.50;-khtml-opacity:0.50;opacity:0.50} body .ui-button.ui-button-blue{color:white !important;border-color:#628acb !important;background:#3365ba url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEUuXKkmS4ozZbkkSIQtW6YiRHwrV58hQ3owYLAxY7UnTY0jRoEqVZsyZLcvXq0oT5EqU5gxYbMsWaMlSocjRX8pUZU8hDFrAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJaLNcOl2ZLdqdfocpuCRLF5F+wETiQDocXjMfwAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#3365ba url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-blue.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-blue:hover{border-color:#5375ad !important;background:#2b569e url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEUkSIQlSocqVJokR4EfPXArVZwnTpAjRX8fP3MoUJMhQngiQ3sePG4gQHUeO2wmTY0qU5gcOWglTIspUpYdOmorVp0vaG5sAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJT5FdHoM1eEWkDSLadNlq93r+gETbQDoYR8TFAAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#2b569e url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-blue-hover.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-blue.ui-button-large{background:#3365ba url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAhFBMVEUuXKksWKEmS4ouXKgqVJovX64wYbEyY7YzZbkkSIQyZbgtW6YkR4MnTpAiRHwrV58lS4khQ3owYLAxY7UnTY0jRoEoUJMqVZsyZLctWqQiQ3svXq0kSYYoT5ExYrQqU5gjRoAxYbMsWaMpUpYmTIwlSocjRX8zZborVp0pUZUiRH0vXauCMiDmAAAAQElEQVR4XgXAgxHDAAAAwI/t2ub+++W85UobmcnJVWqU2PsjUtm6CXQ+1mJnd18rR42Fh1Dv6aBQW7p4+WntDDOZVAOzgFhMmgAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#3365ba url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-blue-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-blue.ui-button-large:hover{background:#2b569e url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAflBMVEUfPG8kSIQfPnIlSocqVJokR4MkR4EfPXAiRH0rVZwoT5InTpAlS4koUZQjRX8fP3MoUJMhQngiQ3sePG0qU5kePG4rVJsgQHUlSYYmTYwrVp4eO2wpU5cnTo8gQXcmTY0qU5gfQHUjRoAcOWglTIspUpYhQnsdOWkdOmorVp3M0v8uAAAAQUlEQVR4Xg3BgxVDQQAAsHybta39F+y92PsFlbXU0tXRS2dUa5xc7Dy1EluRTO6uV5q9Tc42bgaxAisLB9/g4/EHoJ4Dr9t5q84AAAAASUVORK5CYII=) repeat-x scroll 50% 100% !important;background:#2b569e url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-blue-hover-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-blue.disabled{filter:alpha(opacity=50);-moz-opacity:0.50;-khtml-opacity:0.50;opacity:0.50} body .ui-button.ui-button-red{color:white !important;border-color:#af977e !important;background:#cb0000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEWUAACeAACIAADIAACQAACKAACaAADDAAC8AACxAACFAADFAADAAACuAACXAACqAACmAAC5AACiAACNAADKAAC1AAB6LXXpAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJV7Joll1l8+wOZxuQbUjexTR/AEV+QDoUwTrkQAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#cb0000 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-red.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-red:hover{border-color:#8e7761 !important;background:#ad0000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEWdAACUAACaAACDAAB0AACjAACNAAB4AAB7AACgAACKAABxAACsAACXAACqAACAAACoAAB+AACmAACRAAB1AACGAAAFpPfGAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJVa7060YiDbBo5o+yeHSNa9s+QET9wDo7y8jggAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#ad0000 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-red-hover.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-red.ui-button-large{background:#cb0000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEWUAACeAACIAADIAACQAACKAACaAADDAAC8AACxAACFAADFAADAAACuAACXAACqAACmAAC5AACiAACNAADKAAC1AAB6LXXpAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJV7Joll1l8+wOZxuQbUjexTR/AEV+QDoUwTrkQAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#cb0000 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-red.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-red.ui-button-large:hover{background:#ad0000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEWdAACUAACaAACDAAB0AACjAACNAAB4AAB7AACgAACKAABxAACsAACXAACqAACAAACoAAB+AACmAACRAAB1AACGAAAFpPfGAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJVa7060YiDbBo5o+yeHSNa9s+QET9wDo7y8jggAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#ad0000 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-red-hover.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-red.disabled{filter:alpha(opacity=50);-moz-opacity:0.50;-khtml-opacity:0.50;opacity:0.50} body .ui-button.ui-button-orange{color:white !important;border-color:#f3a863 !important;background:#f07f14 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEXhdxOmWA61YA+pWg6iWxbQbhHsfRTddRLUcBLCZxCgVQ3vfhSiVg3ZcxLHaRDpexOxXg+tXA7leRO+ZBDMbBG6Yg+ZlQMbAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJRbV4Uaz6YrXbnh8otMlCVZT/gEUsQDogjg6swAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#f07f14 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-orange.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-orange:hover{border-color:#ce9055 !important;background:#cc6c11 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAWCAMAAAA2GAaYAAAAQlBMVEWXUA2ISAueUw2NSwyxXg6lWA68ZA+TTgyQTQy5Yg+pWQ6KSQu0Xw/LaxGiVQ6uXA6/ZRDGaRDDZxCaUg2KTRPJahH2OJVtAAAAKElEQVR4XgXAhQ2AMAAAsM4Ft/9fJTafy+1UDavsMBW76EHTJYvg/QEWxQDo2m2cEgAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#cc6c11 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-orange-hover.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-orange.ui-button-large{background:#f07f14 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAhFBMVEWnWA7hdxOmWA63YQ+1YA+pWg7AZhCiWxbQbhGeVA3sfRTtfhTbdBLddRLUcBLFaBDCZxCgVQ3SbxHjeBPvfhSvXQ+kVw6iVg3ZcxLHaRCrWw7pexPfdhK8YxCxXg+tXA7leRPqfBO+ZBDMbBG6Yg+zXw/wfxShVQ3nehPJahHXchLObRGV62MnAAAAQElEQVR4XgXAgxHDAAAAwI/t2ub+++W8LFRKV3sfF5PAQaO28dMa5f7uvrY6vdTN0UMk9nSydLaTILSy9jYoZDOtXgOzmKJnqAAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#f07f14 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-orange-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-orange.ui-button-large:hover{background:#cc6c11 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAMAAACT+SJTAAAAhFBMVEWJSAuXUA2ISAueUw2cUw2NSwyxXg6lWA6+ZA+8ZA+TTgzFaBCQTQySTQy5Yg+zXg6pWQ63YQ+KSQurWg60Xw/HahCOSwzLaxGiVQ6uXA66Yw+/ZRDKaxHBZhDGaRCoWQ6YUQ2GRwvMbBHDZxCgVA6VTw2jVw6vXQ6MSgyaUg2KTRPJahHiODFfAAAAQElEQVR4XgXAgxHDAAAAwI/t2ub+++XcrB38LZ1U7o72coWd1mChk3rbmvTOMi8bD5HY10XgqdSorSQ+RoSufjOr8AOzYAWVRAAAAABJRU5ErkJggg==) repeat-x scroll 50% 100% !important;background:#cc6c11 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/button-orange-hover-large.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie}body .ui-button.ui-button-orange.disabled{filter:alpha(opacity=50);-moz-opacity:0.50;-khtml-opacity:0.50;opacity:0.50}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:73045f2dd571334f51d549edbe0be600 */
+.ui-dialog{position:absolute;padding:0;width:300px}.ui-dialog .ui-dialog-titlebar{padding:.75em;position:relative}.ui-dialog .ui-dialog-title{float:left;margin:0}.ui-dialog .ui-dialog-titlebar-close{position:absolute;right:.75em;top:50%;width:19px;margin:-10px 0 0 0;padding:1px;height:18px}.ui-dialog .ui-dialog-titlebar-close span{display:block;margin:1px}.ui-dialog .ui-dialog-titlebar-close:hover,.ui-dialog .ui-dialog-titlebar-close:focus{padding:0}.ui-dialog .ui-dialog-content{border:0;padding:.5em 1em;background:none;overflow:auto;zoom:1}.ui-dialog .ui-dialog-buttonpane{text-align:left;border-width:1px 0 0 0;background-image:none;margin:.5em 0 0 0;padding:.3em 1em .5em .4em}.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset{float:right}.ui-dialog .ui-resizable-se{width:14px;height:14px;right:3px;bottom:3px}.ui-draggable .ui-dialog-titlebar{cursor:move} body .ui-dialog .ui-dialog-titlebar-close:hover{text-decoration:none}body .ui-dialog .ui-dialog-content .status-invalid input{border:2px solid red;padding:2px 1px}body .ui-dialog .ui-dialog-titlebar{padding:0.9em 1.4em 0.6em !important}body .ui-dialog .ui-widget-header{background:#f0f0f0 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAkCAMAAAB/qqA+AAAASFBMVEXn5+fZ2dns7Ozc3Nzj4+Pg4ODq6url5eXk5OTh4eHe3t7o6Oju7u7r6+vb29vi4uLv7+/f39/p6enm5ubw8PDt7e3d3d3a2tpM98B4AAAAL0lEQVR4Xg3BhRHAMACAQOJ1l/03Dfc8OrToVWRV5dIM3GoMZHaNFE5NfEps+hU6RiYB51j6ttcAAAAASUVORK5CYII=) repeat-x scroll 50% 100% !important;background:#f0f0f0 url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/titlebar-fade.png?2013-04-01T17:18:20Z) repeat-x scroll 50% 100% !important!ie} body .ui-dialog .ui-icon-closethick{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIBAMAAAA2IaO4AAAAElBMVEUAAAAAAAD///8AAAAAAAAAAAAtTix5AAAABXRSTlMNTQC/s2KwEqEAAAAjSURBVAgdYwhhUnBlEDVgDmRgDDYVYFAQDWSCEGAuWAKkBABiBwTrflTh/wAAAABJRU5ErkJggg==) no-repeat 50% 50% !important;background:url(//bits.wikimedia.org/static-1.22wmf1/resources/jquery.ui/themes/vector/images/close.png?2013-04-01T17:18:20Z) no-repeat 50% 50% !important!ie}body .ui-dialog .ui-dialog-buttonpane{margin-top:0 !important;padding:0.3em 1.4em 0.5em 1.4em !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:26a5c8aed5b6cf93aa1050d2b9b753b9 */
+.wp-teahouse-question-form{position:absolute;margin-left:auto;margin-right:auto;background-color:#f4f3f0;border:1px solid #a7d7f9;padding:1em}#wp-th-question-ask{float:right}.wp-teahouse-ask a.external{background-image:none !important}.wp-teahouse-respond-form{position:absolute;margin-left:auto;margin-right:auto;background-color:#f4f3f0;border:1px solid #a7d7f9;padding:1em}.wp-th-respond{float:right}.wp-teahouse-respond a.external{background-image:none !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:ba4e3603af357b5172e85672664d39a8 */
+.PopUpMediaTransform a .play-btn-large{position :absolute;top:50%;left :50%;width:70px;height:53px;margin-left:-35px;margin-top:-25px;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA1CAMAAADLRm3ZAAABnlBMVEUAAAAAAAAAAABaWlp4eHh7e3t/f393d3eDg4N0dHRtbW2FhYVra2uJiYmNjY1nZ2eRkZFkZGSUlJRiYmKYmJhgYGCcnJxeXl5cXFyfn58AAACioqKlpaWsrKwAAACpqakAAAAAAAAAAAAAAABEREQFBQUHBwdMTEwAAAAYGBgAAAAAAAABAQEXFxcAAAAAAAAAAABxcXGoqKh3d3eampp8fHyIiIgUFBQcHBw0NDSFhYV+fn5FRUUmJiaNjY11dXWPj4+Hh4c9PT14eHifn59nZ2eBgYFISEiBgYFubm5vb28ODg4lJSVra2tiYmJoaGgEBAQmJiZmZmaLi4saGhpiYmKYmJhZWVlgYGBfX19vb29DQ0MGBgZcXFyBgYFKSkoPDw9ZWVlzc3NQUFBXV1eKiopUVFQdHR1VVVUQEBBYWFglJSVTU1NXV1cKCgosLCySkpJRUVFISEgyMjJPT08dHR2GhoY4ODhNTU09PT0MDAwuLi57e3sTExNJSUkgICBOTk4hISEbGxtTU1MoKChBQUEsLCxXV1cAAABycnIdNM6eAAAAinRSTlOzj6jO1dbX1NfU09nS2drR29Hc0N3Q3c/O3gDf3+Ce4EgIGW7HtbXKnLouq7S5cHIq1ODQ3NTXuLq/1tXEvNjT2NjC093N18bW0dC2vNHM0LW90Ne5z9rLzsrTxbXN1Me3zdDKzdfLu8y3zb3Lyba/2svFwcq618PKxLa/1LjJu8q8u8y+xsDKrdJqj5XQAAABYklEQVR4Xu3XVVNCQRjH4VdQEbvFVRAOIRl2d3d3d3d317d2GEaGOOfM1oUXPB/gN7NX/30BIYPeGMPAqDcgBMhrBUZWLwJBAcwcAriBAzfogAMdKIADBUUmmqm64JAxl2m1k/XMmZkin+YaxsxYqd9iA1OmsfDPajVDZqMgoL1jhzpTmR+k/OCQMlObG+L4dJgq050d5rKVJlOXGaHijjxzny6i94k005YqatBFlmlKEdfy1UeS+UmS0tllwc/0JEhT9WNnBuJlqCy4maE4OSO4mdFYOeO4mQm1jCnAzUyXSJqdm8fOLCRKWVomWIaVZHFrLqJlWE8Ts7lFuAzbGZF294iXYT8rnPLICcSZk5xQyjMzzTKc5wXTXFnoluFaE+TmlnYZipUBpgcA5syjjWU1Tf7I8wvbhr/6Im/vTmDLgO3D9Gn+R5+2aIbXzeABDjwgOIDZtwDIzvwsnR1xujV/AS6zSfMs2bS9AAAAAElFTkSuQmCC);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/TimedMediaHandler/resources/player_big_play_button.png?2013-04-01T17:23:20Z)!ie}.PopUpMediaTransform a .play-btn-large :hover{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAA1CAMAAADLRm3ZAAABtlBMVEUAAAAAAAAAAAC5ubm1tbWwsLC+vr6Li4vExMSrq6umpqbIyMjOzs6ioqLT09OdnZ3Y2NiZmZnc3NyWlpbh4eGSkpLn5+eQkJCNjY0AAADr6+vv7+/z8/P39/cAAAD9/f0AAAAAAAAAAAAAAAB2dnYAAAAoKCj5+flra2sMDAwAAAAAAAAAAAAAAAAAAAACAgLW1tbPz88wMDCHh4fExMS8vLxKSkpubm6vr6+qqqo0NDQQEBDCwsK1tbUmJiaysrLT09PLy8uIiIgXFxetra2+vr7r6+tycnIbGxvMzMyTk5O1tbU8PDyjo6PR0dG0tLQLCwufn58HBwc9PT2bm5shISEqKiqXl5cICAiJiYmTk5Pj4+OoqKhpaWkKCgqOjo5TU1OXl5cYGBiKioo9PT18fHwlJSWGhoYuLi6CgoIvLy+Dg4Ofn5+oqKg7OzuAgIDk5OSLi4tHR0fIyMh9fX3Z2dlycnJPT08JCQl7e3vJyclhYWFZWVl4eHhhYWEUFBS6urpqamofHx9ycnK2trZzc3N6eno1NTUsLCyKioqAgIBBQUFmZmZHR0cICAjBwcEAAACIiIg+YVJpAAAAknRSTlOzj6jt6+ru4O/p5/Hy5vPl9eT24/ji+eHgAPr7/P2e/hlICG7YLr7+07accipwq7Tw777X6erGzuLjv7fs4rzn8PDYuObr+dK57tjqwuTu6rbjtcPiur3htdvg8+jRtt7H3Lndwdi83b7bwNze5cPb9t/G7drz0Mq22e7MzdjPuOrUu9fo1NnCwN/cxdLItu6t3VahkKcAAAFlSURBVHhe7dfFcgJBFIbRGyLEXegIDBAITtzd3d3d3d3d88ZJigqFzExNyyILzgN8Vb36+wJCGrXWj4JWrUEIkMUElEwWBJwMqNk4sAIDVlACA0qQAQMygowv05fNIDNYplKNFFBnmjN+ZU5SZtrTHHJnqTKVqX8KFykyWSlO9auNxJmmZBebOSWEmZ1EN3v73USZ0ngPxyckmbpYL3n5+JnLaB5FxbiZ20heU+V4mYpwflXVNTiZ2jAhHw1G6Zm1YGEtrZIzbUEiOjqlZrr8xfRIzfQGiOmXmhkIFDEEUjPDIYJGx8YlZyZChdxNYyzDTAS/uXmsZViI4rO0jLkMKzHevtaxl2EjztPWth2wM7sJ7uQHhyTLcJTkSnFqJFuGM4WL8wvSZUiXO11dA1BnbvQ0q2lwRO4f6Db88ekn8vxiB7oM6F8Nb+//6NPmy7C6GczAgBk4G1D75ADpqJ+l1CFGt+Y3XGRJEJqP8KwAAAAASUVORK5CYII=);background-image:url(//bits.wikimedia.org/static-1.22wmf1/extensions/TimedMediaHandler/resources/player_big_play_button_hover.png?2013-04-01T17:23:20Z)!ie}.PopUpMediaTransform{position :relative;display:inline-block}li.gallerybox div.thumb div.PopUpMediaTransform{margin:0 auto}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:2c309271e266e3f9cf9b790fb9c61262 */</style><meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="Wow%21signal_files/load.css">
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="Wow%21signal_files/load_004.php"></script><script src="Wow%21signal_files/load_008.php"></script><style title="spinjs"></style>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wow!_signal","wgTitle":"Wow! signal","wgCurRevisionId":548500254,"wgArticleId":1211349,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Search for extraterrestrial intelligence","1977 in the United States","1977 in science","Unsolved problems in astronomy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wow!_signal","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false,"enableSectionEditLinks":false,"reportProblemURL":"http://parsoid.wmflabs.org/_bugs/","enableExperimentalCode":false},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgGuidedTourTestWikitextDescription":"A guider in your on-wiki tour can contain wikitext using onShow and parseDescription. Use it to create a wikilink to the \u003Ca href=\"/wiki/Help:Guided_tours\" title=\"Help:Guided tours\"\u003EGuided tours documentation\u003C/a\u003E. Or an external link \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\u003Eto GitHub\u003C/a\u003E, for instance.","wgMFPhotoUploadEndpoint":"//commons.wikimedia.org/w/api.php","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"en.wikipedia.org"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":30,"domain":".wikipedia.org","path":"/"},"wgMFPhotoUploadAppendToDesc":"{{Uploaded from Mobile|platform=Web|version=}}\n{{subst:unc}}","wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":true,"wgPreferredVariant":"en","wgMFLoginHandshakeUrl":"//commons.wikimedia.org/wiki/Special:LoginHandshake?useformat=mobile","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":
+false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f01864140ec2ba42468570048b875f39 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.postEdit","wikibase.client.init","ext.centralNotice.bannerController"]);
+}</script><script src="Wow%21signal_files/load.php"></script><script src="Wow%21signal_files/load_005.php"></script>
+<script src="Wow%21signal_files/geoiplookup"></script><link rel="dns-prefetch" href="http://meta.wikimedia.org/"><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf1/skins/vector/csshover.min.htc")}</style><![endif]--><script src="Wow%21signal_files/load_006.php" async=""></script><script src="Wow%21signal_files/load_003.php" async=""></script><script src="Wow%21signal_files/load_007.php" async=""></script></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wow_signal skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><div id="centralNotice"></div><!-- CentralNotice --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Wow! signal</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" dir="ltr" class="mw-content-ltr" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="http://en.wikipedia.org/wiki/File:Wow_signal.jpg" class="image"><img alt="" src="Wow%21signal_files/300px-Wow_signal.jpg" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wow_signal.jpg/450px-Wow_signal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wow_signal.jpg/600px-Wow_signal.jpg 2x" width="300" height="169"></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Wow_signal.jpg" class="internal" title="Enlarge"><img src="Wow%21signal_files/magnify-clip.png" alt="" width="15" height="11"></a></div>
+The Wow! signal</div>
+</div>
+</div>
+<p>The <b>Wow! signal</b> was a strong <a href="http://en.wikipedia.org/wiki/Narrowband" title="Narrowband">narrowband</a> <a href="http://en.wikipedia.org/wiki/Radio_frequency" title="Radio frequency">radio</a> signal detected by <a href="http://en.wikipedia.org/wiki/Jerry_R._Ehman" title="Jerry R. Ehman">Jerry R. Ehman</a> on August 15, 1977, while working on a <a href="http://en.wikipedia.org/wiki/SETI" title="SETI" class="mw-redirect">SETI</a> project at <a href="http://en.wikipedia.org/wiki/The_Big_Ear" title="The Big Ear" class="mw-redirect">the Big Ear</a> <a href="http://en.wikipedia.org/wiki/Radio_telescope" title="Radio telescope">radio telescope</a> of <a href="http://en.wikipedia.org/wiki/The_Ohio_State_University" title="The Ohio State University" class="mw-redirect">The Ohio State University</a> then located at <a href="http://en.wikipedia.org/wiki/Ohio_Wesleyan_University" title="Ohio Wesleyan University">Ohio Wesleyan University</a>'s <a href="http://en.wikipedia.org/wiki/Perkins_Observatory" title="Perkins Observatory">Perkins Observatory</a>, Delaware, Ohio.<sup id="cite_ref-npr_1-0" class="reference"><a href="#cite_note-npr-1"><span>[</span>1<span>]</span></a></sup> The signal bore expected hallmarks of potential non-<a href="http://en.wikipedia.org/wiki/Earth" title="Earth">terrestrial</a> and non-<a href="http://en.wikipedia.org/wiki/Solar_System" title="Solar System">Solar System</a> origin. It lasted for the full 72-<a href="http://en.wikipedia.org/wiki/Second" title="Second">second</a>
+ duration that Big Ear observed it, but has not been detected again. The
+ signal has been the subject of significant media attention.</p>
+<p>Amazed at how closely the signal matched the expected signature of an interstellar signal in the <a href="http://en.wikipedia.org/wiki/Antenna_%28radio%29" title="Antenna (radio)">antenna</a>
+ used, Ehman circled the signal on the computer printout and wrote the 
+comment "Wow!" on its side. This comment became the name of the signal.<sup id="cite_ref-npr_1-1" class="reference"><a href="#cite_note-npr-1"><span>[</span>1<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tbody><tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+<span class="toctoggle">&nbsp;[<a href="#" class="internal" id="togglelink">hide</a>]&nbsp;</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Interpretation_of_the_paper_chart"><span class="tocnumber">1</span> <span class="toctext">Interpretation of the paper chart</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Location_of_the_signal"><span class="tocnumber">2</span> <span class="toctext">Location of the signal</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Time_variation"><span class="tocnumber">3</span> <span class="toctext">Time variation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Searches_for_recurrence_of_the_signal"><span class="tocnumber">4</span> <span class="toctext">Searches for recurrence of the signal</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Speculation_on_the_signal.27s_origin"><span class="tocnumber">5</span> <span class="toctext">Speculation on the signal's origin</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=1" title="Edit section: Interpretation of the paper chart">edit</a>]</span> <span class="mw-headline" id="Interpretation_of_the_paper_chart">Interpretation of the paper chart</span></h2>
+<p>The circled <a href="http://en.wikipedia.org/wiki/Alphanumeric" title="Alphanumeric">alphanumeric</a> code <b>6EQUJ5</b> describes the <a href="http://en.wikipedia.org/wiki/Intensity_%28physics%29" title="Intensity (physics)">intensity</a> variation of the signal. A <a href="http://en.wikipedia.org/wiki/Space_%28punctuation%29" title="Space (punctuation)">space</a>
+ denotes an intensity between 0 and 1, the numbers 1 to 9 denote the 
+correspondingly numbered intensities (from 1.000 to 10.000), and 
+intensities of 10.0 and above are denoted by a letter ('A' corresponds 
+to intensities between 10.0 and 11.0, 'B' to 11.0 to 12.0, etc.). The 
+value 'U' (an intensity between 30.0 and 31.0) was the highest detected 
+by the radio telescope; on a linear scale it was over 30 times louder 
+than normal deep space.<sup id="cite_ref-npr_1-2" class="reference"><a href="#cite_note-npr-1"><span>[</span>1<span>]</span></a></sup> The intensity in this case is the <a href="http://en.wikipedia.org/wiki/Dimensionless_quantity" title="Dimensionless quantity">unitless</a> <a href="http://en.wikipedia.org/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">signal-to-noise ratio</a>, where noise was averaged for that band over the previous few minutes.<sup id="cite_ref-code_2-0" class="reference"><a href="#cite_note-code-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Two different values for its <a href="http://en.wikipedia.org/wiki/Frequency" title="Frequency">frequency</a> have been given: 1420.356 <a href="http://en.wikipedia.org/wiki/MHz" title="MHz" class="mw-redirect">MHz</a> (J. D. Kraus) and 1420.4556&nbsp;MHz (J. R. Ehman). The frequency <a href="http://en.wikipedia.org/wiki/1420_MHz" title="1420 MHz" class="mw-redirect">1420 MHz</a>
+ is significant for SETI searchers because, it is reasoned, hydrogen is 
+the most common element in the universe, and hydrogen resonates at about
+ 1420&nbsp;MHz, thus extraterrestrials might use that frequency on which
+ to transmit a strong signal.<sup id="cite_ref-npr_1-3" class="reference"><a href="#cite_note-npr-1"><span>[</span>1<span>]</span></a></sup> The frequency of the Wow! signal matches very closely with the <a href="http://en.wikipedia.org/wiki/Hydrogen_line" title="Hydrogen line">hydrogen line</a>,
+ which is at 1420.40575177&nbsp;MHz. The two different values given for 
+the frequency of the Wow! signal (1420.356&nbsp;MHz and 
+1420.4556&nbsp;MHz) are the same distance apart from the hydrogen 
+line—the first being about 0.0498&nbsp;MHz less than the hydrogen line, 
+and the second being about 0.0498&nbsp;MHz more than the hydrogen line. 
+The <a href="http://en.wikipedia.org/wiki/Bandwidth_%28signal_processing%29" title="Bandwidth (signal processing)">bandwidth</a> of the signal is less than 10 <a href="http://en.wikipedia.org/wiki/KHz" title="KHz" class="mw-redirect">kHz</a> (each column on the printout corresponds to a 10&nbsp;kHz-wide channel; the signal is only present in one column).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="http://en.wikipedia.org/wiki/File:Wow_signal_location.jpg" class="image"><img alt="" src="Wow%21signal_files/400px-Wow_signal_location.jpg" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wow_signal_location.jpg/600px-Wow_signal_location.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wow_signal_location.jpg/800px-Wow_signal_location.jpg 2x" width="400" height="224"></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Wow_signal_location.jpg" class="internal" title="Enlarge"><img src="Wow%21signal_files/magnify-clip.png" alt="" width="15" height="11"></a></div>
+The location of the signal in the constellation <a href="http://en.wikipedia.org/wiki/Sagittarius_%28constellation%29" title="Sagittarius (constellation)">Sagittarius</a>, near the <a href="http://en.wikipedia.org/wiki/Chi_Sagittarii" title="Chi Sagittarii">Chi Sagittarii star group</a>.
+ Because of the design of the experiment, the location may lie in either
+ one of the two red bands, and there is also significant uncertainty in 
+the declination (vertical axis). For clarity, the widths of the red 
+bands are not drawn to scale; they should actually be narrower.</div>
+</div>
+</div>
+<p>The original print-out of the Wow! signal, complete with Jerry Ehman's famous exclamation, is preserved by the <a href="http://en.wikipedia.org/wiki/Ohio_Historical_Society" title="Ohio Historical Society">Ohio Historical Society</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=2" title="Edit section: Location of the signal">edit</a>]</span> <span class="mw-headline" id="Location_of_the_signal">Location of the signal</span></h2>
+<p>Determining a precise location in the sky was complicated by the fact that the <a href="http://en.wikipedia.org/wiki/Ohio_State_University_Radio_Observatory" title="Ohio State University Radio Observatory">Big Ear telescope</a> used two <a href="http://en.wikipedia.org/wiki/Feed_horn" title="Feed horn">feed horns</a> to search for signals, each pointing to a slightly different direction in the sky following <a href="http://en.wikipedia.org/wiki/Earth%27s_rotation" title="Earth's rotation">Earth's rotation</a>;
+ the Wow! signal was detected in one of the horns but not in the other, 
+although the data was processed in such a way that it is impossible to 
+determine in which of the two horns the signal entered. There are, 
+therefore, two possible <a href="http://en.wikipedia.org/wiki/Right_ascension" title="Right ascension">right ascension</a> values:</p>
+<ul>
+<li>19<sup>h</sup>22<sup>m</sup>24.64<sup>s</sup>&nbsp;±&nbsp;5<sup>s</sup> (positive horn)</li>
+<li>19<sup>h</sup>25<sup>m</sup>17.01<sup>s</sup>&nbsp;±&nbsp;5<sup>s</sup> (negative horn)</li>
+</ul>
+<p>The <a href="http://en.wikipedia.org/wiki/Declination" title="Declination">declination</a> was unambiguously determined to be −27°03′&nbsp;±&nbsp;20′. The preceding values are all expressed in terms of the <a href="http://en.wikipedia.org/wiki/B1950.0" title="B1950.0" class="mw-redirect">B1950.0</a> <a href="http://en.wikipedia.org/wiki/Equinox_%28celestial_coordinates%29" title="Equinox (celestial coordinates)">equinox</a>.<sup id="cite_ref-gray_2001_4-0" class="reference"><a href="#cite_note-gray_2001-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Converted into the J2000.0 <a href="http://en.wikipedia.org/wiki/Equinox_%28celestial_coordinates%29" title="Equinox (celestial coordinates)">equinox</a>, the coordinates become RA= 19<sup>h</sup>25<sup>m</sup>31<sup>s</sup> ± 10<sup>s</sup> or 19<sup>h</sup>28<sup>m</sup>22<sup>s</sup>&nbsp;±&nbsp;10<sup>s</sup> and declination= −26°57′&nbsp;±&nbsp;20′</p>
+<p>This region of the sky lies in the constellation <a href="http://en.wikipedia.org/wiki/Sagittarius_%28constellation%29" title="Sagittarius (constellation)">Sagittarius</a>, roughly 2.5 degrees south of the fifth-magnitude star group <a href="http://en.wikipedia.org/wiki/Chi_Sagittarii" title="Chi Sagittarii">Chi Sagittarii</a>, and about <a href="http://en.wikipedia.org/wiki/Tau_Sagittarii" title="Tau Sagittarii">3.5 degrees south</a> of the <a href="http://en.wikipedia.org/wiki/Plane_of_the_ecliptic" title="Plane of the ecliptic" class="mw-redirect">plane of the ecliptic</a>. <a href="http://en.wikipedia.org/wiki/Tau_Sagittarii" title="Tau Sagittarii">Tau Sagittarii</a> is the closest easily visible star.</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=3" title="Edit section: Time variation">edit</a>]</span> <span class="mw-headline" id="Time_variation">Time variation</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="http://en.wikipedia.org/wiki/File:Wow_signal_profile.svg" class="image"><img alt="" src="Wow%21signal_files/300px-Wow_signal_profile.png" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wow_signal_profile.svg/450px-Wow_signal_profile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wow_signal_profile.svg/600px-Wow_signal_profile.svg.png 2x" width="300" height="229"></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Wow_signal_profile.svg" class="internal" title="Enlarge"><img src="Wow%21signal_files/magnify-clip.png" alt="" width="15" height="11"></a></div>
+Plot of signal strength vs time</div>
+</div>
+</div>
+<p>The Big Ear telescope was fixed and used the rotation of the Earth to
+ scan the sky. At the speed of the Earth's rotation, and given the width
+ of the Big Ear's observation "window", the Big Ear could observe any 
+given point for just 72 seconds. A continuous extraterrestrial signal, 
+therefore, would be expected to register for exactly 72 seconds, and the
+ recorded intensity of that signal would show a gradual peaking for the 
+first 36 seconds—until the signal reached the center of Big Ear's 
+observation "window"— and then a gradual decrease.</p>
+<p>Therefore, both the length of the Wow! signal, 72 seconds, and the 
+shape of the intensity graph may correspond to a possible 
+extraterrestrial origin.<sup id="cite_ref-space_com_5-0" class="reference"><a href="#cite_note-space_com-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=4" title="Edit section: Searches for recurrence of the signal">edit</a>]</span> <span class="mw-headline" id="Searches_for_recurrence_of_the_signal">Searches for recurrence of the signal</span></h2>
+<p>The signal was expected to appear three minutes apart in each of the horns, but this did not happen.<sup id="cite_ref-space_com_5-1" class="reference"><a href="#cite_note-space_com-5"><span>[</span>5<span>]</span></a></sup> Ehman unsuccessfully looked for recurrences of the signal using Big Ear in the months after the detection.<sup id="cite_ref-planetary_society_6-0" class="reference"><a href="#cite_note-planetary_society-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In 1987 and 1989, <a href="http://en.wikipedia.org/wiki/Robert_H._Gray" title="Robert H. Gray">Robert H. Gray</a> searched for the event using the META array at <a href="http://en.wikipedia.org/wiki/Oak_Ridge_Observatory" title="Oak Ridge Observatory">Oak Ridge Observatory</a>, but did not re-detect it.<sup id="cite_ref-planetary_society_6-1" class="reference"><a href="#cite_note-planetary_society-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-gray_2012_7-0" class="reference"><a href="#cite_note-gray_2012-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In a July 1995 test of signal detection software to be used in its upcoming <a href="http://en.wikipedia.org/wiki/SETI#The_SETI_League_and_Project_Argus" title="SETI" class="mw-redirect">Project Argus</a> search, SETI League executive director <a href="http://en.wikipedia.org/wiki/H._Paul_Shuch" title="H. Paul Shuch">H. Paul Shuch</a> made several drift-scan observations of the 'Wow!' signal's coordinates with a 12 meter radio telescope at the <a href="http://en.wikipedia.org/wiki/National_Radio_Astronomy_Observatory" title="National Radio Astronomy Observatory">National Radio Astronomy Observatory</a>, Green Bank WV, also achieving a null result.</p>
+<p>In 1995 and 1996, Gray also searched for the signal using the <a href="http://en.wikipedia.org/wiki/Very_Large_Array" title="Very Large Array">Very Large Array</a>, which is significantly more sensitive than Big Ear.<sup id="cite_ref-planetary_society_6-2" class="reference"><a href="#cite_note-planetary_society-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-gray_2012_7-1" class="reference"><a href="#cite_note-gray_2012-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Gray and Simon Ellingsen later searched for recurrences of the event in 1999 using the 26m radio telescope at the <a href="http://en.wikipedia.org/wiki/University_of_Tasmania" title="University of Tasmania">University of Tasmania</a>'s <a href="http://en.wikipedia.org/wiki/Mount_Pleasant_Radio_Observatory" title="Mount Pleasant Radio Observatory">Mount Pleasant Radio Observatory</a>.<sup id="cite_ref-gray_2002_8-0" class="reference"><a href="#cite_note-gray_2002-8"><span>[</span>8<span>]</span></a></sup> Six 14-hour observations were made at positions in the vicinity, but did not detect anything similar to the Wow! signal.<sup id="cite_ref-space_com_5-2" class="reference"><a href="#cite_note-space_com-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-gray_2012_7-2" class="reference"><a href="#cite_note-gray_2012-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=5" title="Edit section: Speculation on the signal's origin">edit</a>]</span> <span class="mw-headline" id="Speculation_on_the_signal.27s_origin">Speculation on the signal's origin</span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Interstellar" title="Interstellar" class="mw-redirect">Interstellar</a> <a href="http://en.wikipedia.org/wiki/Scintillation_%28astronomy%29" title="Scintillation (astronomy)">scintillation</a> of a weaker <a href="http://en.wikipedia.org/wiki/Continuous_signal" title="Continuous signal">continuous signal</a>—similar, in effect, to <a href="http://en.wikipedia.org/wiki/Scintillation_%28astronomy%29" title="Scintillation (astronomy)">atmospheric twinkling</a>—could
+ be a possible explanation, although this still would not exclude the 
+possibility of the signal being artificial in its nature. However, even 
+by using the significantly more sensitive <a href="http://en.wikipedia.org/wiki/Very_Large_Array" title="Very Large Array">Very Large Array</a>, such a signal could not be detected, and the <a href="http://en.wikipedia.org/wiki/Probability" title="Probability">probability</a>
+ that a signal below the Very Large Array level could be detected by the
+ Big Ear radio telescope due to interstellar scintillation is low.<sup id="cite_ref-planetary_society_6-3" class="reference"><a href="#cite_note-planetary_society-6"><span>[</span>6<span>]</span></a></sup> Other speculations include a rotating lighthouse-like source, a signal sweeping in frequency, or a one-time burst.<sup id="cite_ref-gray_2001_4-1" class="reference"><a href="#cite_note-gray_2001-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Ehman has stated his doubts that the signal is of intelligent <a href="http://en.wikipedia.org/wiki/Extraterrestrial_life" title="Extraterrestrial life">extraterrestrial</a>
+ origin: "We should have seen it again when we looked for it 50 times. 
+Something suggests it was an Earth-sourced signal that simply got 
+reflected off a piece of <a href="http://en.wikipedia.org/wiki/Space_debris" title="Space debris">space debris</a>."<sup id="cite_ref-cleveland_plain_dealer_9-0" class="reference"><a href="#cite_note-cleveland_plain_dealer-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>He later recanted his skepticism somewhat, after further research 
+showed an Earth-borne signal to be very unlikely, due to the 
+requirements of a space-borne reflector being bound to certain 
+unrealistic requirements to sufficiently explain the nature of the 
+signal.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup>
+ Also, the 1420&nbsp;MHz signal is problematic in itself in that it is 
+"protected spectrum": it is bandwidth in which terrestrial transmitters 
+are forbidden to transmit due to it being reserved for astronomical 
+purposes.<sup id="cite_ref-NASA_11-0" class="reference"><a href="#cite_note-NASA-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-CRAF_12-0" class="reference"><a href="#cite_note-CRAF-12"><span>[</span>12<span>]</span></a></sup>
+ In his most recent writings, Ehman resists "drawing vast conclusions 
+from half-vast data"—acknowledging the possibility that the source may 
+have been military in nature or otherwise may have been a production of 
+Earth-bound humans.</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tbody><tr valign="middle">
+<td style="text-align:center;"><a href="http://en.wikipedia.org/wiki/File:PIA01130_Interior_of_Europa.jpg" class="image"><img alt="Portal icon" src="Wow%21signal_files/32px-PIA01130_Interior_of_Europa.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PIA01130_Interior_of_Europa.jpg/48px-PIA01130_Interior_of_Europa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PIA01130_Interior_of_Europa.jpg/64px-PIA01130_Interior_of_Europa.jpg 2x" width="32" height="24"></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="http://en.wikipedia.org/wiki/Portal:Astrobiology" title="Portal:Astrobiology">Astrobiology portal</a></td>
+</tr>
+</tbody></table>
+</div>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Arecibo_message" title="Arecibo message">Arecibo message</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Quasar" title="Quasar">Quasar</a> <a href="http://en.wikipedia.org/wiki/CTA-102" title="CTA-102">CTA-102</a>, which was believed by Dr. <a href="http://en.wikipedia.org/wiki/Nikolai_S._Kardashev" title="Nikolai S. Kardashev" class="mw-redirect">Nikolai S. Kardashev</a>
+ to have an extraterrestrial signal encoded in it before further 
+examination proved it to be a quasar, the first widely reported work of 
+SETI activity.</li>
+<li><a href="http://en.wikipedia.org/wiki/Pulsar" title="Pulsar">Pulsar</a> <a href="http://en.wikipedia.org/wiki/LGM-1" title="LGM-1" class="mw-redirect">LGM-1</a> ("Little Green Men 1"), the first pulsar signal to be recognised.</li>
+<li><a href="http://en.wikipedia.org/wiki/Radio_source_SHGb02%2B14a" title="Radio source SHGb02+14a">Radio source SHGb02+14a</a></li>
+</ul>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-npr-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-npr_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-npr_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-npr_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-npr_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=126510251">"Aliens Found In Ohio? The 'Wow!' Signal"</a>, by Robert Krulwich, <a href="http://en.wikipedia.org/wiki/NPR" title="NPR">NPR</a>, May 29, 2010</span></li>
+<li id="cite_note-code-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-code_2-0">^</a></b></span> <span class="reference-text"><span class="citation web">Ehman, Jerry. <a rel="nofollow" class="external text" href="http://www.bigear.org/6equj5.htm">"Explanation of the Code "6EQUJ5" On the Wow! Computer Printout"</a><span class="reference-accessdate">. Retrieved 2010-01-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aufirst=Jerry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Explanation+of+the+Code+%226EQUJ5%22+On+the+Wow%21+Computer+Printout&amp;rft_id=http%3A%2F%2Fwww.bigear.org%2F6equj5.htm&amp;rft.genre=book&amp;rft.aulast=Ehman&amp;rft.au=Ehman%2C+Jerry&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ohiohistory.wordpress.com/2010/07/03/wow/">http://ohiohistory.wordpress.com/2010/07/03/wow/</a></span></li>
+<li id="cite_note-gray_2001-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-gray_2001_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gray_2001_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Gray, Robert; Kevin Marvel (2001). <a rel="nofollow" class="external text" href="http://www.journals.uchicago.edu/doi/full/10.1086/318272">"A VLA Search for the Ohio State 'Wow'"</a>. <i>The <a href="http://en.wikipedia.org/wiki/Astrophysical_Journal" title="Astrophysical Journal" class="mw-redirect">Astrophysical Journal</a></i> <b>546</b> (2): 1171–1177. <a href="http://en.wikipedia.org/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001ApJ...546.1171G">2001ApJ...546.1171G</a>. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1086%2F318272">10.1086/318272</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.volume=546&amp;rft_id=http%3A%2F%2Fwww.journals.uchicago.edu%2Fdoi%2Ffull%2F10.1086%2F318272&amp;rft.atitle=A+VLA+Search+for+the+Ohio+State+%27Wow%27&amp;rft.genre=book&amp;rft.aulast=Gray&amp;rft.aufirst=Robert&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=2001&amp;rft.pages=1171%E2%80%931177&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.issue=2&amp;rft.btitle=A+VLA+Search+for+the+Ohio+State+%27Wow%27&amp;rft.au=Gray%2C+Robert&amp;rft_id=info%3Adoi%2F10.1086%2F318272&amp;rft_id=info%3Abibcode%2F2001ApJ...546.1171G&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-space_com-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-space_com_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-space_com_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-space_com_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Shostak, Seth (2002-12-05). <a rel="nofollow" class="external text" href="http://www.bigear.org/shostak_wow_20021205.htm">"Interstellar Signal From the 70s Continues to Puzzle Researchers"</a>. Space.com.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Shostak&amp;rft.aufirst=Seth&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Interstellar+Signal+From+the+70s+Continues+to+Puzzle+Researchers&amp;rft_id=http%3A%2F%2Fwww.bigear.org%2Fshostak_wow_20021205.htm&amp;rft.pub=Space.com&amp;rft.genre=book&amp;rft.date=2002-12-05&amp;rft.au=Shostak%2C+Seth&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-planetary_society-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-planetary_society_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-planetary_society_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-planetary_society_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-planetary_society_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Alexander, Amir (2001-01-17). <a rel="nofollow" class="external text" href="http://www.planetary.org/news/2001/0117_The_Wow_Signal_Still_Eludes.html">"The 'Wow!' Signal Still Eludes Detection"</a>. The <a href="http://en.wikipedia.org/wiki/Planetary_Society" title="Planetary Society" class="mw-redirect">Planetary Society</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Alexander&amp;rft.aufirst=Amir&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+%27Wow%21%27+Signal+Still+Eludes+Detection&amp;rft_id=http%3A%2F%2Fwww.planetary.org%2Fnews%2F2001%2F0117_The_Wow_Signal_Still_Eludes.html&amp;rft.pub=The+Planetary+Society&amp;rft.genre=book&amp;rft.date=2001-01-17&amp;rft.au=Alexander%2C+Amir&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-gray_2012-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-gray_2012_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gray_2012_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gray_2012_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Robert H. Gray, <i>The Elusive WOW: Searching for Extraterrestrial Intelligence</i> 2012, Palmer Square Press, Chicago. 242 pages. <a href="http://en.wikipedia.org/wiki/Special:BookSources/9780983958444" class="internal mw-magiclink-isbn">ISBN 978-0-9839584-4-4</a>.</span></li>
+<li id="cite_note-gray_2002-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-gray_2002_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Gray, Robert; S. Ellingsen (2002). <a rel="nofollow" class="external text" href="http://www.journals.uchicago.edu/doi/full/10.1086/342646">"A Search for Periodic Emissions at the Wow Locale"</a>. <i>The Astrophysical Journal</i> <b>578</b> (2): 967–971. <a href="http://en.wikipedia.org/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2002ApJ...578..967G">2002ApJ...578..967G</a>. <a href="http://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1086%2F342646">10.1086/342646</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.volume=578&amp;rft_id=http%3A%2F%2Fwww.journals.uchicago.edu%2Fdoi%2Ffull%2F10.1086%2F342646&amp;rft.atitle=A+Search+for+Periodic+Emissions+at+the+Wow+Locale&amp;rft.genre=book&amp;rft.aulast=Gray&amp;rft.aufirst=Robert&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=2002&amp;rft.pages=967%E2%80%93971&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.issue=2&amp;rft.btitle=A+Search+for+Periodic+Emissions+at+the+Wow+Locale&amp;rft.au=Gray%2C+Robert&amp;rft_id=info%3Adoi%2F10.1086%2F342646&amp;rft_id=info%3Abibcode%2F2002ApJ...578..967G&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-cleveland_plain_dealer-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-cleveland_plain_dealer_9-0">^</a></b></span> <span class="reference-text"><span class="citation news">Kawa, Barry (1994-09-18). <a rel="nofollow" class="external text" href="http://www.bigear.org/wow.htm">"The Wow! signal"</a>. Cleveland Plain Dealer<span class="reference-accessdate">. Retrieved 2006-06-12</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Kawa&amp;rft.aufirst=Barry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wow%21+signal&amp;rft_id=http%3A%2F%2Fwww.bigear.org%2Fwow.htm&amp;rft.pub=Cleveland+Plain+Dealer&amp;rft.genre=book&amp;rft.date=1994-09-18&amp;rft.au=Kawa%2C+Barry&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Jerry R. Ehman (February 3, 1998). <a rel="nofollow" class="external text" href="http://www.bigear.org/wow20th.htm">"The Big Ear Wow! Signal. What We Know and Don't Know About It After 20 Years"</a><span class="reference-accessdate">. Retrieved February 27, 2010</span></span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Jerry+R.+Ehman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=February+3%2C+1998&amp;rft_id=http%3A%2F%2Fwww.bigear.org%2Fwow20th.htm&amp;rft.btitle=The+Big+Ear+Wow%21+Signal.+What+We+Know+and+Don%27t+Know+About+It+After+20+Years&amp;rft.genre=book&amp;rft.au=Jerry+R.+Ehman&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-NASA-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA_11-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://dsnra.jpl.nasa.gov/freq_man/ra_freqs.html">"Frequencies Allocated to Radio Astronomy Used by the DSN"</a>. <a href="http://en.wikipedia.org/wiki/NASA" title="NASA">NASA</a><span class="reference-accessdate">. Retrieved November 2007</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Frequencies+Allocated+to+Radio+Astronomy+Used+by+the+DSN&amp;rft_id=http%3A%2F%2Fdsnra.jpl.nasa.gov%2Ffreq_man%2Fra_freqs.html&amp;rft.genre=book&amp;rft.pub=NASA&amp;rfr_id=info:sid/en.wikipedia.org:Wow! signal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
+<li id="cite_note-CRAF-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRAF_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.astrosmo.unam.mx/%7Eluisfr/CRAFHandbook3.pdf">Committee on Radio Astronomy Frequencies Handbook for Radio Astronomy</a>, European Science Foundation, 3rd edition, 2005, p. 101.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li>Ehman, J. R. (2007). <a rel="nofollow" class="external text" href="http://www.bigear.org/Wow30th/wow30th.htm">The Big Ear Wow! Signal (30th Anniversary Report)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.google.com/sky/#latitude=-27.002855190521245&amp;longitude=111.8023681640625&amp;zoom=11&amp;Spitzer=0.00&amp;ChandraXO=0.00&amp;Galex=0.00&amp;IRAS=0.00&amp;WMAP=0.00&amp;Cassini=0.00&amp;slide=1&amp;mI=-1&amp;oI=-1">Location</a> on <a href="http://en.wikipedia.org/wiki/Google_Sky" title="Google Sky">Google Sky</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fourmilab.ch/cgi-bin/Yourtel?lat=26.9500&amp;ns=South&amp;lon=291.250&amp;fov=14.142&amp;date=0&amp;utc=2009-06-09+21%3A04%3A25&amp;jd=2454992.37807&amp;deepm=6.5&amp;consto=on&amp;limag=99.0&amp;starn=on&amp;starnm=99.0&amp;starb=on&amp;starbm=99.0&amp;showmb=-1.5&amp;showmd=6.0&amp;imgsize=800&amp;scheme=1&amp;elements=">Location</a> on <a rel="nofollow" class="external text" href="http://www.fourmilab.ch/yoursky/">YourSky</a></li>
+<li>APOD NASA GOV <a rel="nofollow" class="external text" href="http://apod.nasa.gov/apod/ap110206.html">NASA Signal 2011</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0;" cellspacing="0">
+<tbody><tr>
+<td style="padding:2px;">
+<table id="collapsibleTable0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;" cellspacing="0">
+<tbody><tr>
+<th scope="col" class="navbox-title" colspan="2"><span class="collapseButton">[<a href="#" id="collapseButton0">show</a>]</span>
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Radio-astronomy" title="Template:Radio-astronomy"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Radio-astronomy" title="Template talk:Radio-astronomy"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Template:Radio-astronomy&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="http://en.wikipedia.org/wiki/Radio_astronomy" title="Radio astronomy">Radio astronomy</a></div>
+</th>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="http://en.wikipedia.org/wiki/Category:Radio_telescopes" title="Category:Radio telescopes">Category:Radio telescopes</a></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group" style="line-height:1.2em;;">Main articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Astronomical_interferometer" title="Astronomical interferometer">Astronomical interferometer</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Very-long-baseline_interferometry" title="Very-long-baseline interferometry">Very Long Baseline Interferometry (VLBI)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Radio_telescope" title="Radio telescope">Radio telescope</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Radio_window" title="Radio window">Radio window</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Astronomical_radio_source" title="Astronomical radio source">Astronomical radio source</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group" style="line-height:1.2em;;">Notable <a href="http://en.wikipedia.org/wiki/List_of_radio_telescopes" title="List of radio telescopes">radio<br>
+telescopes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0;" cellspacing="0">
+<tbody><tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;font-weight:normal;;">
+<div style="padding:0em 0.75em;">Single dish</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Arecibo_Observatory" title="Arecibo Observatory">Arecibo Observatory <small style="font-size:85%;">(Puerto Rico)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Effelsberg_100-m_Radio_Telescope" title="Effelsberg 100-m Radio Telescope">Effelsberg Telescope <small style="font-size:85%;">(Germany)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Large_Millimeter_Telescope" title="Large Millimeter Telescope">Large Millimeter Telescope <small style="font-size:85%;">(Mexico)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Yevpatoria_RT-70_radio_telescope" title="Yevpatoria RT-70 radio telescope">Yevpatoria RT-70 <small style="font-size:85%;">(Ukraine)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Galenki_RT-70_radio_telescope" title="Galenki RT-70 radio telescope">Galenki RT-70 <small style="font-size:85%;">(Russia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Suffa_RT-70_radio_telescope" title="Suffa RT-70 radio telescope">Suffa RT-70 <small style="font-size:85%;">(Uzbekistan)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Green_Bank_Telescope" title="Green Bank Telescope">Green Bank Telescope <small style="font-size:85%;">(West Virginia, USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Lovell_Telescope" title="Lovell Telescope">Lovell Telescope <small style="font-size:85%;">(UK)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Parkes_Observatory" title="Parkes Observatory">Parkes Observatory <small style="font-size:85%;">(Australia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ukrainian_T-shaped_Radio_telescope,_second_modification" title="Ukrainian T-shaped Radio telescope, second modification">UTR-2 decameter radio telescope <small style="font-size:85%;">(Ukraine)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;font-weight:normal;;">
+<div style="padding:0em 0.75em;">Interferometers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Allen_Telescope_Array" title="Allen Telescope Array">Allen Telescope Array (ATA, <small style="font-size:85%;">California, USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Australia_Telescope_Compact_Array" title="Australia Telescope Compact Array">Australia Telescope Compact Array (ATCA, <small style="font-size:85%;">Australia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array" title="Atacama Large Millimeter Array">Atacama Large Millimeter Array (ALMA, <small style="font-size:85%;">Chile)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Combined_Array_for_Research_in_Millimeter-wave_Astronomy" title="Combined Array for Research in Millimeter-wave Astronomy">Combined Array for Research in Millimeter-wave Astronomy (CARMA, <small style="font-size:85%;">California, USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/European_VLBI_Network" title="European VLBI Network">European VLBI Network <small style="font-size:85%;">(Europe)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope" title="Giant Metrewave Radio Telescope">Giant Metrewave Radio Telescope (GMRT, <small style="font-size:85%;">India)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/LOFAR" title="LOFAR">Low-Frequency Array (LOFAR, <small style="font-size:85%;">Netherlands)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/MERLIN" title="MERLIN">Multi-Element Radio Linked Interferometer Network (MERLIN, <small style="font-size:85%;">UK)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Molonglo_Observatory_Synthesis_Telescope" title="Molonglo Observatory Synthesis Telescope">Molonglo Observatory Synthesis Telescope (MOST, <small style="font-size:85%;">Australia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/One-Mile_Telescope" title="One-Mile Telescope">One-Mile Telescope <small style="font-size:85%;">(UK)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Very_Large_Array" title="Very Large Array">Very Large Array (VLA, <small style="font-size:85%;">New Mexico, USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Very_Long_Baseline_Array" title="Very Long Baseline Array">Very Long Baseline Array (VLBA, <small style="font-size:85%;">USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Westerbork_Synthesis_Radio_Telescope" title="Westerbork Synthesis Radio Telescope">Westerbork Synthesis Radio Telescope (WSRT, <small style="font-size:85%;">Netherlands)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;font-weight:normal;;line-height:1.2em;;">
+<div style="padding:0em 0.75em;">Under construction<br>
+or proposed</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope" title="Five hundred meter Aperture Spherical Telescope">Five-hundred-meter Aperture Spherical Telescope (FAST, <small style="font-size:85%;">China)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Australian_Square_Kilometre_Array_Pathfinder" title="Australian Square Kilometre Array Pathfinder">Australian Square Kilometre Array Pathfinder (ASKAP, <small style="font-size:85%;">Australia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Murchison_Widefield_Array" title="Murchison Widefield Array">Murchison Widefield Array (MWA, <small style="font-size:85%;">Australia)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/MeerKAT" title="MeerKAT">MeerKAT <small style="font-size:85%;">South Africa</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Primeval_Structure_Telescope" title="Primeval Structure Telescope">Primeval Structure Telescope (PaST, <small style="font-size:85%;">China)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Square_Kilometre_Array" title="Square Kilometre Array">Square Kilometre Array (SKA, <small style="font-size:85%;">Australia, New Zealand, South Africa)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group" style="line-height:1.2em;;">Observatories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Algonquin_Radio_Observatory" title="Algonquin Radio Observatory">Algonquin Radio Observatory <small style="font-size:85%;">(Canada)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Haystack_Observatory" title="Haystack Observatory">Haystack Observatory <small style="font-size:85%;">(USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Jodrell_Bank_Observatory" title="Jodrell Bank Observatory">Jodrell Bank Observatory <small style="font-size:85%;">(UK)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mullard_Radio_Astronomy_Observatory" title="Mullard Radio Astronomy Observatory">Mullard Radio Astronomy Observatory <small style="font-size:85%;">(UK)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/National_Radio_Astronomy_Observatory" title="National Radio Astronomy Observatory">National Radio Astronomy Observatory <small style="font-size:85%;">(USA)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Onsala_Space_Observatory" title="Onsala Space Observatory">Onsala Space Observatory <small style="font-size:85%;">(Sweden)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Special_Astrophysical_Observatory_of_the_Russian_Academy_of_Science" title="Special Astrophysical Observatory of the Russian Academy of Science">Special Astrophysical Observatory of the Russian Academy of Science (SAORAS, <small style="font-size:85%;">Russia)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group" style="line-height:1.2em;;">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Edward_George_Bowen" title="Edward George Bowen">Edward George Bowen</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Arthur_Covington" title="Arthur Covington">Arthur Covington</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Antony_Hewish" title="Antony Hewish">Antony Hewish</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Karl_Guthe_Jansky" title="Karl Guthe Jansky">Karl Guthe Jansky</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Bernard_Lovell" title="Bernard Lovell">Bernard Lovell</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Jan_Oort" title="Jan Oort">Jan Oort</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Joseph_Lade_Pawsey" title="Joseph Lade Pawsey">Joseph Lade Pawsey</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ruby_Payne-Scott" title="Ruby Payne-Scott">Ruby Payne-Scott</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Grote_Reber" title="Grote Reber">Grote Reber</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Martin_Ryle" title="Martin Ryle">Martin Ryle</a></li>
+<li><a href="http://en.wikipedia.org/wiki/John_Paul_Wild" title="John Paul Wild">Paul Wild</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group" style="line-height:1.2em;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation" title="Cosmic microwave background radiation">Cosmic microwave background radiation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/SETI" title="SETI" class="mw-redirect">SETI</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Interferometry" title="Interferometry">Interferometry</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Radio_propagation" title="Radio propagation">Radio propagation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Aperture_synthesis" title="Aperture synthesis">Aperture synthesis</a></li>
+<li><strong class="selflink">Wow! signal</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Visible-light_astronomy" title="Visible-light astronomy">Optical astronomy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Submillimetre_astronomy" title="Submillimetre astronomy">Submillimetre astronomy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Infrared_astronomy" title="Infrared astronomy">Infrared astronomy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/High-energy_astronomy" title="High-energy astronomy">High-energy astronomy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table class="navbox" style="border-spacing:0;" cellspacing="0">
+<tbody><tr>
+<td style="padding:2px;">
+<table id="collapsibleTable1" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;" cellspacing="0">
+<tbody><tr>
+<th scope="col" class="navbox-title" colspan="2"><span class="collapseButton">[<a href="#" id="collapseButton1">show</a>]</span>
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Extraterrestrial_life" title="Template:Extraterrestrial life"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Extraterrestrial_life" title="Template talk:Extraterrestrial life"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Template:Extraterrestrial_life&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="http://en.wikipedia.org/wiki/Extraterrestrial_life" title="Extraterrestrial life">Extraterrestrial life</a></div>
+</th>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Events and objects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Allan_Hills_84001" title="Allan Hills 84001">ALH84001</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Chandra_Wickramasinghe#Detection_of_living_cells_in_the_stratosphere" title="Chandra Wickramasinghe">Cells in the stratosphere</a></li>
+<li><a href="http://en.wikipedia.org/wiki/CI1_fossils" title="CI1 fossils">CI1 fossils</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Murchison_meteorite" title="Murchison meteorite">Murchison meteorite</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Nakhla_meteorite" title="Nakhla meteorite">Nakhla meteorite</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Polonnaruwa_%28meteorite%29" title="Polonnaruwa (meteorite)">Polonnaruwa meteorite</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Radio_source_SHGb02%2B14a" title="Radio source SHGb02+14a">Radio source SHGb02+14a</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Red_rain_in_Kerala" title="Red rain in Kerala">Red rain in Kerala</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shergotty_meteorite" title="Shergotty meteorite">Shergotty meteorite</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Viking_spacecraft_biological_experiments" title="Viking spacecraft biological experiments">Viking spacecraft biological experiments</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Yamato_593" title="Yamato 593" class="mw-redirect">Yamato 593 meteorite</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Misidentified signals</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/CTA-102" title="CTA-102">CTA-102 <small style="font-size:85%;">(misidentified quasar)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21">PSR B1919+21</a>&nbsp;/ <a href="http://en.wikipedia.org/wiki/LGM-1" title="LGM-1" class="mw-redirect">LGM-1 <small style="font-size:85%;">(misidentified pulsar)</small></a></li>
+<li><strong class="selflink">Wow! signal <small style="font-size:85%;">(inconclusive)</small></strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Extraterrestrial bodies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0;" cellspacing="0">
+<tbody><tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="http://en.wikipedia.org/wiki/Extraterrestrial_life#Possible_extraterrestrial_life_in_the_Solar_System" title="Extraterrestrial life">Solar System</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Europa_%28moon%29#Potential_for_Life" title="Europa (moon)">Europa</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Life_on_Mars" title="Life on Mars">Mars</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Life_on_Titan" title="Life on Titan">Titan</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Atmosphere_of_Venus#Possibility_of_life" title="Atmosphere of Venus">Venus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="http://en.wikipedia.org/wiki/Extrasolar_planet" title="Extrasolar planet">Extrasolar</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/List_of_potential_habitable_exoplanets" title="List of potential habitable exoplanets">List of potential habitable exoplanets</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gliese_163_c" title="Gliese 163 c">Gliese 163 c</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gliese_581_d" title="Gliese 581 d">Gliese 581 d</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gliese_581_g" title="Gliese 581 g">Gliese 581 g</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gliese_667_Cc" title="Gliese 667 Cc" class="mw-redirect">Gliese 667 Cc</a></li>
+<li><a href="http://en.wikipedia.org/wiki/HD_40307_g" title="HD 40307 g">HD 40307 g</a></li>
+<li><a href="http://en.wikipedia.org/wiki/HD_85512_b" title="HD 85512 b">HD 85512 b</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kepler-22b" title="Kepler-22b">Kepler-22b</a></li>
+<li><a href="http://en.wikipedia.org/wiki/PH2" title="PH2">PH2 b</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tau_Ceti_e" title="Tau Ceti e">Tau Ceti e</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tau_Ceti_f" title="Tau Ceti f">Tau Ceti f</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Planetary habitability</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Earth_analog" title="Earth analog">Earth analog</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Earth_Similarity_Index" title="Earth Similarity Index">Earth Similarity Index</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Catalog_of_Nearby_Habitable_Systems" title="Catalog of Nearby Habitable Systems">Catalog of Nearby Habitable Systems</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Habitability_of_orange_dwarf_systems" title="Habitability of orange dwarf systems">Habitability of orange dwarf systems</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Habitability_of_red_dwarf_systems" title="Habitability of red dwarf systems">Habitability of red dwarf systems</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Habitable_zone" title="Habitable zone">Habitable zone</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Natural_satellite_habitability" title="Natural satellite habitability">Natural satellite habitability</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Planetary_habitability" title="Planetary habitability">Planetary habitability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Missions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Darwin_%28spacecraft%29" title="Darwin (spacecraft)">Darwin space mission</a></li>
+<li><a href="http://en.wikipedia.org/wiki/ExoMars" title="ExoMars">ExoMars</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Foton-M" title="Foton-M">Foton-M3</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Living_Interplanetary_Flight_Experiment" title="Living Interplanetary Flight Experiment">Living Interplanetary Flight Experiment</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mars_sample_return_mission" title="Mars sample return mission">Mars sample return mission</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mars_Science_Laboratory" title="Mars Science Laboratory">Mars Science Laboratory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Communication</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Active_SETI" title="Active SETI">Active SETI</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Allen_Telescope_Array" title="Allen Telescope Array">Allen Telescope Array</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Arecibo_message" title="Arecibo message">Arecibo message</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Arecibo_Observatory" title="Arecibo Observatory">Arecibo Observatory</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Bracewell_probe" title="Bracewell probe">Bracewell probe</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Communication_with_Extraterrestrial_Intelligence" title="Communication with Extraterrestrial Intelligence" class="mw-redirect">Communication with Extraterrestrial Intelligence</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gauss%27_Pythagorean_right_triangle_proposal" title="Gauss' Pythagorean right triangle proposal" class="mw-redirect">Gauss' Pythagorean right triangle proposal</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Interstellar_communication" title="Interstellar communication">Interstellar communication</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Lincos_%28artificial_language%29" title="Lincos (artificial language)">Lincos (language)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Pioneer_plaque" title="Pioneer plaque">Pioneer plaque</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Project_Cyclops" title="Project Cyclops">Project Cyclops</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Project_Ozma" title="Project Ozma">Project Ozma</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Project_Phoenix_%28SETI%29" title="Project Phoenix (SETI)">Project Phoenix</a></li>
+<li><a href="http://en.wikipedia.org/wiki/SERENDIP" title="SERENDIP">SERENDIP</a></li>
+<li><a href="http://en.wikipedia.org/wiki/SETI" title="SETI" class="mw-redirect">SETI</a></li>
+<li><a href="http://en.wikipedia.org/wiki/SETI@home" title="SETI@home">SETI@home</a></li>
+<li><a href="http://en.wikipedia.org/wiki/SetiQuest" title="SetiQuest">setiQuest</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Voyager_Golden_Record" title="Voyager Golden Record">Voyager Golden Record</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Waterhole_%28radio%29" title="Waterhole (radio)">Waterhole</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Alien_language" title="Alien language">Xenolinguistics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Exhibitions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Science_of_Aliens" title="The Science of Aliens">The Science of Aliens</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Hypotheses</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Ancient_astronauts" title="Ancient astronauts">Ancient astronauts</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Aurelia_and_Blue_Moon" title="Aurelia and Blue Moon">Aurelia and Blue Moon</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Back-contamination" title="Back-contamination">Back-contamination</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cosmic_pluralism" title="Cosmic pluralism">Cosmic pluralism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Directed_panspermia" title="Directed panspermia">Directed panspermia</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Drake_equation" title="Drake equation">Drake equation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Extraterrestrial_hypothesis" title="Extraterrestrial hypothesis">Extraterrestrial hypothesis</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fermi_paradox" title="Fermi paradox">Fermi paradox</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Forward-contamination" title="Forward-contamination" class="mw-redirect">Forward-contamination</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Great_Filter" title="Great Filter">Great Filter</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Interplanetary_contamination" title="Interplanetary contamination">Interplanetary contamination</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kardashev_scale" title="Kardashev scale">Kardashev scale</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mediocrity_principle" title="Mediocrity principle">Mediocrity principle</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Neocatastrophism" title="Neocatastrophism">Neocatastrophism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Panspermia" title="Panspermia">Panspermia</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Planetarium_hypothesis" title="Planetarium hypothesis">Planetarium hypothesis</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Rare_Earth_hypothesis" title="Rare Earth hypothesis">Rare Earth hypothesis</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Sentience_quotient" title="Sentience quotient">Sentience quotient</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Zoo_hypothesis" title="Zoo hypothesis">Zoo hypothesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Astroecology" title="Astroecology">Astroecology</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Biosignature" title="Biosignature">Biosignature</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Brookings_Report" title="Brookings Report">Brookings Report</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Potential_cultural_impact_of_extraterrestrial_contact" title="Potential cultural impact of extraterrestrial contact">Potential cultural impact of extraterrestrial contact</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Exotheology" title="Exotheology">Exotheology</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Extraterrestrials_in_fiction" title="Extraterrestrials in fiction">Extraterrestrials in fiction</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Extremophile" title="Extremophile">Extremophile</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry" title="Hypothetical types of biochemistry">Hypothetical types of biochemistry</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Noogenesis" title="Noogenesis">Noogenesis</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Planetary_protection" title="Planetary protection">Planetary protection</a></li>
+<li><a href="http://en.wikipedia.org/wiki/San_Marino_Scale" title="San Marino Scale">San Marino Scale</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shermer%27s_Last_Law" title="Shermer's Last Law" class="mw-redirect">Shermer's Last Law</a></li>
+<li><a href="http://en.wikipedia.org/wiki/UFO_religion" title="UFO religion">UFO religion</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Xenoarchaeology" title="Xenoarchaeology">Xenoarchaeology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 1839/1000000
+Preprocessor generated node count: 6095/1500000
+Post-expand include size: 82161/2048000 bytes
+Template argument size: 4488/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 5/500
+Lua time usage: 0.058s
+Lua memory usage: 1.5 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1211349-0!*!0!!en!4!* and timestamp 20130419231413 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;oldid=548500254">http://en.wikipedia.org/w/index.php?title=Wow!_signal&amp;oldid=548500254</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Help:Categories" title="Help:Categories">Categories</a>: <ul><li><a href="http://en.wikipedia.org/wiki/Category:Search_for_extraterrestrial_intelligence" title="Category:Search for extraterrestrial intelligence">Search for extraterrestrial intelligence</a></li><li><a href="http://en.wikipedia.org/wiki/Category:1977_in_the_United_States" title="Category:1977 in the United States">1977 in the United States</a></li><li><a href="http://en.wikipedia.org/wiki/Category:1977_in_science" title="Category:1977 in science">1977 in science</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Unsolved_problems_in_astronomy" title="Category:Unsolved problems in astronomy">Unsolved problems in astronomy</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Wow%21+signal&amp;type=signup">Create account</a></li><li id="pt-login"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Wow%21+signal" title="You are encouraged to log in; however, it is not mandatory. [alt-shift-o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><span><a href="http://en.wikipedia.org/wiki/Wow%21_signal" title="View the content page [alt-shift-c]" accesskey="c">Article</a></span></li>
+					<li id="ca-talk"><span><a href="http://en.wikipedia.org/wiki/Talk:Wow%21_signal" title="Discussion about the content page [alt-shift-t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="http://en.wikipedia.org/wiki/Wow%21_signal">Read</a></span></li>
+					<li id="ca-edit"><span><a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=edit" title="You can edit this page. 
+Please use the preview button before saving. [alt-shift-e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=history" title="Past versions of this page [alt-shift-h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input tabindex="1" placeholder="Search" autocomplete="off" name="search" title="Search Wikipedia [alt-shift-f]" accesskey="f" id="searchInput">						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="Wow%21signal_files/search-ltr.png" alt="Search" width="12" height="13"></button>								<input name="title" value="Special:Search" type="hidden">
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div class="collapsible-nav" id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal first persistent" role="navigation" id="p-navigation">
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [alt-shift-z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [alt-shift-x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="http://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal expanded" role="navigation" id="p-interaction">
+	<h3 tabindex="2"><a href="#">Interaction</a></h3>
+	<div style="display: block;" class="body">
+		<ul>
+			<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [alt-shift-r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal collapsed" role="navigation" id="p-tb">
+	<h3 tabindex="3"><a href="#">Toolbox</a></h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Wow%21_signal" title="List of all English Wikipedia pages containing links to this page [alt-shift-j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wow%21_signal" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [alt-shift-u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="A list of all special pages [alt-shift-q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;oldid=548500254" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=Wow%21_signal&amp;id=548500254" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal collapsed" role="navigation" id="p-coll-print_export">
+	<h3 tabindex="4"><a href="#">Print/export</a></h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wow%21+signal">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wow%21+signal&amp;oldid=548500254&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="http://en.wikipedia.org/w/index.php?title=Wow%21_signal&amp;printable=yes" title="Printable version of this page [alt-shift-p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal expanded" role="navigation" id="p-lang">
+	<h3 tabindex="5"><a href="#">Languages</a></h3>
+	<div style="display: block;" class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="http://ar.wikipedia.org/wiki/%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9_%D9%88%D8%A7%D9%88%21" title="إشارة واو!" hreflang="ar" lang="ar">العربية</a></li>
+			<li class="interwiki-bn"><a href="http://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%93%21_%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4" title="ওয়াও! সংকেত" hreflang="bn" lang="bn">বাংলা</a></li>
+			<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/Senyal_Wow%21" title="Senyal Wow!" hreflang="ca" lang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/Sign%C3%A1l_Wow%21" title="Signál Wow!" hreflang="cs" lang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="http://da.wikipedia.org/wiki/Wow%21_signalet" title="Wow! signalet" hreflang="da" lang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Wow%21-Signal" title="Wow!-Signal" hreflang="de" lang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/Se%C3%B1al_Wow%21" title="Señal Wow!" hreflang="es" lang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="http://eo.wikipedia.org/wiki/Wow%21-signalo" title="Wow!-signalo" hreflang="eo" lang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="http://eu.wikipedia.org/wiki/WOW_seinalea" title="WOW seinalea" hreflang="eu" lang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84_%D9%88%D8%A2%D9%88" title="سیگنال وآو" hreflang="fa" lang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Signal_Wow%21" title="Signal Wow!" hreflang="fr" lang="fr">Français</a></li>
+			<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/Wow%21_signal" title="Wow! signal" hreflang="ko" lang="ko">한국어</a></li>
+			<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/Sinyal_Wow%21" title="Sinyal Wow!" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Segnale_Wow%21" title="Segnale Wow!" hreflang="it" lang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%90%D7%95%D7%AA_%D7%94%22%D7%95%D7%95%D7%90%D7%95%21%22" title="אות ה&quot;וואו!&quot;" hreflang="he" lang="he">עברית</a></li>
+			<li class="interwiki-hu"><a href="http://hu.wikipedia.org/wiki/H%C5%B1ha%21_jel" title="Hűha! jel" hreflang="hu" lang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Wow%21-signaal" title="Wow!-signaal" hreflang="nl" lang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/Wow%21_%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB" title="Wow! シグナル" hreflang="ja" lang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/Wow%21-signalet" title="Wow!-signalet" hreflang="no" lang="no">Norsk bokmål</a></li>
+			<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Sygna%C5%82_Wow%21" title="Sygnał Wow!" hreflang="pl" lang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Sinal_Wow%21" title="Sinal Wow!" hreflang="pt" lang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="http://ro.wikipedia.org/wiki/Semnalul_Wow%21" title="Semnalul Wow!" hreflang="ro" lang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB_%C2%ABWow%21%C2%BB" title="Сигнал «Wow!»" hreflang="ru" lang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Wow-signaali" title="Wow-signaali" hreflang="fi" lang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Wow-signalen" title="Wow-signalen" hreflang="sv" lang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="http://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%B5%E0%AF%8D%21_%E0%AE%9A%E0%AE%AE%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%9E%E0%AF%88" title="வாவ்! சமிக்ஞை" hreflang="ta" lang="ta">தமிழ்</a></li>
+			<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/Wow%21_signal" title="Wow! signal" hreflang="th" lang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/Wow%21_sinyali" title="Wow! sinyali" hreflang="tr" lang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/Wow%21_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB" title="Wow! сигнал" hreflang="uk" lang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_Wow%21" title="Tín hiệu Wow!" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh-yue"><a href="http://zh-yue.wikipedia.org/wiki/Wow%21_%E8%A8%8A%E8%99%9F" title="Wow! 訊號" hreflang="zh-yue" lang="zh-yue">粵語</a></li>
+			<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/Wow%21%E8%A8%8A%E8%99%9F" title="Wow!訊號" hreflang="zh" lang="zh">中文</a></li>
+			<li class="wbc-editpage"><a href="http://www.wikidata.org/wiki/Q33297" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 April 2013 at 15:31.<br></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="http://wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br>
+Wikipedia® is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/Wow%21_signal" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="Wow%21signal_files/wikimedia-button.png" alt="Wikimedia Foundation" width="88" height="31"></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="Wow%21signal_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.markAsHelpful","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform","skins.vector.js"],null,true);
+}</script>
+<script src="Wow%21signal_files/index.php"></script>
+<script src="Wow%21signal_files/load_002.php"></script>
+<!-- Served by mw1080 in 0.147 secs. -->
+	
+
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>

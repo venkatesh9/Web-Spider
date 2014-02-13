@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <title>~as/courses/cs152/coursepage.html</title>
+</head>
+<body style="background-color: rgb(204, 204, 204); color: windowtext;" alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<br style="color: rgb(204, 204, 204);">
+<h1 style="text-align: center; font-family: sans-serif; color: rgb(204, 204, 204); background-color: rgb(204, 204, 204);">&nbsp;&nbsp;<span style="color: rgb(0, 0, 0);"> CS - 152 Abstractions and Paradigms&nbsp;</span></h1>
+<h1 style="font-family: sans-serif; color: rgb(0, 0, 0); background-color: rgb(204, 204, 204); text-align: center;">in
+Programming</h1>
+<h1 style="font-family: sans-serif; color: rgb(0, 0, 0); background-color: rgb(204, 204, 204); text-align: center;"><small>&nbsp;Instructor:
+Amitabha Sanyal</small></h1>
+<h1 style="font-family: sans-serif; text-align: center; color: rgb(0, 0, 0); background-color: rgb(204, 204, 204);"><br>
+</h1>
+<h1 style="font-family: sans-serif; color: rgb(0, 0, 0); background-color: rgb(204, 204, 204); text-align: left;"><small style="color: rgb(0, 153, 0);"><small>Last updated: 7th January 2007.</small></small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+</h1>
+<hr style="width: 100%; height: 2px;"><br>
+<hr style="width: 100%; height: 2px;"><br style="color: rgb(204, 204, 204);">
+
+<ul style="font-family: sans-serif; font-style: italic; text-decoration: underline;">
+  <li><big><big>Course contents<br>
+    </big></big></li>
+</ul>
+<span style="font-family: sans-serif;"> </span>
+<div style="margin-left: 40px; text-align: justify;"><span style="font-family: sans-serif; color: rgb(51, 51, 255);"><big>Review
+of the program development process, Issues in program design,
+Structured
+programming, Data and control abstractions, Programming with
+assertions. Reasoning about programs and proving correctness of
+programs. </big></span><br style="font-family: sans-serif; color: rgb(51, 51, 255);">
+<br style="font-family: sans-serif; color: rgb(51, 51, 255);">
+<big style="color: rgb(51, 51, 255);"><span style="font-family: sans-serif;">Ideas behind imperative, applicative,
+object oriented and logic programming paradigms such as typing,
+expressions, pure functions, recursion, higher order functions,
+encapsulation, inheritance, goal satisfaction, backtracking,
+unification. Some ideas behind implementation of the paradigms.</span></big><br style="font-family: sans-serif; color: rgb(51, 51, 255);">
+<br style="font-family: sans-serif; color: rgb(51, 51, 255);">
+<big style="color: rgb(51, 51, 255);"><span style="font-family: sans-serif;">Course to be centered around problems
+and applications that demonstrate the main themes.</span></big><br style="color: rgb(102, 51, 255);">
+</div>
+<br>
+<ul style="font-family: sans-serif;">
+  <li><span style="font-style: italic; text-decoration: underline;"></span><big><span style="font-style: italic; text-decoration: underline;">Lecture
+schedule</span></big></li>
+</ul>
+<big><span style="font-style: italic; text-decoration: underline;"></span></big>
+<ul style="font-family: sans-serif;">
+  <ul>
+    <li><big>Monday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9:30 -- 10.30</big></li>
+    <li><big>Tuesday &nbsp; &nbsp; &nbsp; 11:30 -- 12:30</big></li>
+    <li><big>Wednesday &nbsp;&nbsp; 8:30 -- 9:30</big></li>
+    <ul>
+      <li><big><big><span style="font-family: sans;"></span><small style="color: rgb(0, 0, 0);"><span style="font-family: sans-serif;">Lectures
+in <span style="color: rgb(255, 0, 0);">classroom A2</span> Maths
+department ground floor.</span></small></big></big><br>
+      </li>
+    </ul>
+  </ul>
+</ul>
+<ul style="font-family: sans-serif;">
+  <li><big><span style="font-style: italic; text-decoration: underline;">Lab
+Schedule</span> <br>
+    </big></li>
+  <ul>
+    <li><big><big><small>Wednesday &nbsp; &nbsp; &nbsp; &nbsp; 4:00 --
+5:30 </small><br>
+      </big></big></li>
+    <ul style="color: rgb(0, 0, 0);">
+      <li><big><big><small><span style="font-family: sans-serif;">Lab
+sessions in <span style="color: rgb(255, 0, 0);">Old Software lab</span>
+- Maths department ground floor.</span></small></big></big></li>
+    </ul>
+  </ul>
+</ul>
+<ul>
+  <li style="font-family: sans-serif; font-style: italic; text-decoration: underline;"><big><big><small>List
+of references. </small><br>
+    </big></big></li>
+  <ul>
+    <li style="text-align: justify;"><span style="color: rgb(255, 0, 0);"></span><big style="color: rgb(255, 0, 0);"><span style="font-family: sans-serif;">Harold
+Abelson,&nbsp; Gerald Jay Sussman and Julie Sussman, </span><span style="font-family: sans-serif;"><span style="color: rgb(51, 102, 255);">Structure and Interpretation of
+Computer Programs</span><span style="color: rgb(0, 0, 0);">, 2nd
+edition, </span></span><span style="font-family: sans-serif; color: rgb(0, 0, 0);">The MIT Press,
+1996.</span></big></li>
+  </ul>
+</ul>
+<div style="margin-left: 80px;"><big><span style="font-family: sans-serif;">This will be our main text. There are
+four copies of the above
+book in the study section of the Central Library. </span><span style="font-family: sans-serif;"></span></big> <big><span style="font-family: sans-serif;">Here is an <a href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html">online
+version</a> of the book. Here are some other online books.</span></big><br>
+</div>
+<ul>
+  <ul>
+    <li><big><span style="font-family: sans-serif;"><span style="color: rgb(255, 0, 0);">R. Kent Dybvig</span>,&nbsp; <span style="color: rgb(51, 51, 255);">The Scheme Programming Language</span>.
+Prentice Hall Inc. 1996. Here is an <a href="http://www.scheme.com/tspl2d/">online version</a>.</span></big></li>
+    <li><big style="font-family: sans-serif;"><big><font size="-1"><big><big><span style="color: rgb(255, 0, 0);">Matthias Felleisen, Robert Bruce
+Findler, Matthew Flatt, Shriram Krishnamurthi</span>,&nbsp; <span style="color: rgb(51, 51, 255);">How to design Programs</span>, </big></big></font><font style="font-family: sans-serif;" size="-1"><big><big>MIT Press, 2002. <a href="http://www.htdp.org/">Online version.</a><br>
+      </big></big></font></big></big></li>
+  </ul>
+</ul>
+<br>
+<ul>
+  <li><big style="font-family: sans-serif; font-style: italic; text-decoration: underline;">Programming
+in Scheme</big><span style="text-decoration: underline;"><span style="font-weight: bold;"><br>
+    </span></span></li>
+</ul>
+<ul>
+  <ul>
+    <li><big style="font-family: sans-serif;">One of the skills that
+you will pick up in the course is programming in Scheme. Here are some
+references for Scheme</big></li>
+  </ul>
+</ul>
+<ul>
+  <ul>
+    <li><big style="font-family: sans-serif;"><span style="color: rgb(255, 0, 0);">MIT Scheme</span> <br>
+      </big></li>
+    <ul>
+    </ul>
+    <big> </big>
+    <ul>
+      <big> </big><li style="font-family: sans-serif;"><big><a href="http://www.cse.iitb.ac.in/%7Eas/mit-scheme/scheme.html">MIT
+Scheme Reference</a></big><br>
+      </li>
+      <big> </big>
+    </ul>
+    <big> </big>
+    <ul>
+      <big> </big><li style="font-family: sans-serif;"><big><a href="http://www.cse.iitb.ac.in/%7Eas/mit-scheme/user.html">MIT Scheme
+User's Manual</a> </big></li>
+      <big> </big>
+    </ul>
+    <big></big>
+  </ul>
+</ul>
+<ul style="font-family: sans-serif;">
+  <small> </small><li style="text-decoration: underline; font-style: italic;"><big>Evaluation
+pattern</big></li>
+  <small></small>
+</ul>
+<big><big></big></big>
+<ul style="font-family: sans-serif;">
+  <ul>
+    <li style="color: rgb(0, 0, 153);"><big>Quizzes
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: rgb(255, 0, 0);">25%</span></big></li>
+    <li style="color: rgb(0, 0, 153);"><big>Midsemester - &nbsp; <span style="color: rgb(255, 0, 0);">25%</span></big></li>
+    <li><big><big><small style="color: rgb(0, 0, 153);">Endsemester -
+&nbsp; <span style="color: rgb(255, 0, 0);">50%</span></small><br>
+      </big></big></li>
+  </ul>
+</ul>
+<ul>
+  <li><big style="text-decoration: underline;"><span style="font-style: italic; font-family: sans-serif;">Course Schedule</span></big></li>
+</ul>
+<ul>
+  <ul>
+    <li><big><span style="font-family: sans-serif;">CS 152 Quiz 1&nbsp;
+- <span style="color: rgb(255, 0, 0);">February 7th, Wednesday</span>.</span></big></li>
+    <li><big><span style="font-family: sans-serif;">Project proposal - <span style="color: rgb(255, 0, 0);">February 12th, Monday</span>.</span></big></li>
+    <li><big><span style="font-family: sans-serif;">CS154&nbsp; Lab
+Quiz 1 - <span style="color: rgb(255, 0, 0);">February 14, Wednesday</span>.</span></big></li>
+    <li style="font-family: sans-serif;"><big>Midsemester from <span style="color: rgb(255, 0, 0);">17th February</span> to <span style="color: rgb(255, 0, 0);">25th February<span style="color: rgb(0, 0, 0);">.</span></span></big></li>
+    <li style="font-family: sans-serif;"><big><span style="color: rgb(255, 0, 0);">&nbsp;<br>
+      </span></big></li>
+    <li style="font-family: sans-serif;"><big><span style="font-family: sans-serif;"></span>CS152 Quiz 2 - <span style="color: rgb(255, 0, 0);">March 14th, Wednesday</span></big>.<br>
+    </li>
+    <li style="font-family: sans-serif;"><big>CS154 Lab Quiz 2 - <span style="color: rgb(255, 0, 0);">March 21st,&nbsp; Wednesday<span style="color: rgb(0, 0, 0);">.</span></span><br>
+      </big></li>
+    <li style="font-family: sans-serif;"><big>CS 152 Quiz 3&nbsp; - <span style="color: rgb(255, 0, 0);">April 5th, Wednesday<span style="color: rgb(0, 0, 0);">.</span><br>
+      </span></big></li>
+    <li style="font-family: sans-serif;"><big>Project Report - <span style="color: rgb(255, 0, 0);">April 12th, Wednesday <span style="color: rgb(0, 0, 0);">.</span></span></big></li>
+    <li style="font-family: sans-serif;"><big><span style="color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);">Project
+demonstration - <br>
+      </span></span></big></li>
+  </ul>
+</ul>
+<br>
+<br>
+<br>
+<hr style="width: 100%; height: 2px;">
+<hr style="width: 100%; height: 2px;">
+<h3>&nbsp;&nbsp;&nbsp; <br>
+</h3>
+
+
+
+</body></html>
